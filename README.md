@@ -45,7 +45,7 @@ Workday searches stop at 2000 results; bigger boards are split by their first fa
 ## 🚀 Usage
 
 ```bash
-pip install "radarkit @ git+https://github.com/farhaduneci/RadarKit@v0.1.1"
+pip install "radarkit @ git+https://github.com/farhaduneci/RadarKit@v0.1.2"
 ```
 
 ```python

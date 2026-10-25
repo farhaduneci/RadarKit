@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "radarkit"
-version = "0.1.1"
+version = "0.1.2"
 description = "Building blocks for web radars: careers-board fetchers, notify channels, Telegram, Jev, Workers AI, sqlite/D1 store"
 readme = "README.md"
 license = "MIT"

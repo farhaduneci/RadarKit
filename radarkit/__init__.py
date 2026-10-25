@@ -4,4 +4,4 @@ http (one async client, urllib or Workers fetch) · boards (careers-board fetche
 runlog (run records + health) · notify (print, Telegram, ntfy, webhook) · telegram (Bot API) · template (text in files) ·
 jev (TypeSafe judgments) · ai (Workers AI text).
 """
-__version__ = "0.1.1"
+__version__ = "0.1.2"
