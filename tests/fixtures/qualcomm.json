@@ -1,0 +1,1922 @@
+{
+ "status": 200,
+ "error": {
+  "message": "",
+  "body": ""
+ },
+ "data": {
+  "positions": [
+   {
+    "id": 446720995971,
+    "displayJobId": "3096157",
+    "name": "CPU RTL Design- Sr Staff",
+    "locations": [
+     "Bangalore, India"
+    ],
+    "standardizedLocations": [
+     "Bengaluru, KA, IN"
+    ],
+    "postedTs": 1792886400,
+    "solrScore": null,
+    "stars": 0,
+    "department": "CPU Engineering",
+    "creationTs": 1788393600,
+    "isHot": 0,
+    "workLocationOption": "onsite",
+    "locationFlexibility": null,
+    "atsJobId": "3096157",
+    "positionUrl": "/careers/job/446720995971"
+   },
+   {
+    "id": 446721716691,
+    "displayJobId": "3098427",
+    "name": "St Staff Engineer, Power Delivery",
+    "locations": [
+     "Austin, Texas, United States of America"
+    ],
+    "standardizedLocations": [
+     "Austin, TX, US"
+    ],
+    "postedTs": 1792886400,
+    "solrScore": null,
+    "stars": 0,
+    "department": "Packaging Engineering",
+    "creationTs": 1792540800,
+    "isHot": 0,
+    "workLocationOption": "onsite",
+    "locationFlexibility": null,
+    "atsJobId": "3098427",
+    "positionUrl": "/careers/job/446721716691"
+   }
+  ],
+  "filterDef": {
+   "facets": {
+    "locations": [
+     [
+      "Current Location",
+      999998
+     ],
+     [
+      "San Diego, CA, United States",
+      623
+     ],
+     [
+      "Bengaluru, KA, India",
+      363
+     ],
+     [
+      "Santa Clara, CA, United States",
+      179
+     ],
+     [
+      "Hyderabad, TS, India",
+      146
+     ],
+     [
+      "Austin, TX, United States",
+      115
+     ],
+     [
+      "Hsinchu City, Taiwan",
+      108
+     ],
+     [
+      "Cork, CO, Ireland",
+      80
+     ],
+     [
+      "Tijuana, B.C., Mexico",
+      72
+     ],
+     [
+      "Markham, ON, Canada",
+      59
+     ],
+     [
+      "Taipei City, Taiwan",
+      50
+     ]
+    ]
+   },
+   "smartFilters": [],
+   "allFilters": [
+    {
+     "type": "multi_select_facet_search",
+     "filterName": "job_family",
+     "title": "Department",
+     "options": [
+      {
+       "label": "Software Engineering",
+       "value": "software engineering"
+      },
+      {
+       "label": "ASICS Engineering",
+       "value": "asics engineering"
+      },
+      {
+       "label": "Hardware Engineering",
+       "value": "hardware engineering"
+      },
+      {
+       "label": "Systems Engineering",
+       "value": "systems engineering"
+      },
+      {
+       "label": "CPU Engineering",
+       "value": "cpu engineering"
+      },
+      {
+       "label": "Machine Learning Engineering",
+       "value": "machine learning engineering"
+      },
+      {
+       "label": "Software Applications Engineering",
+       "value": "software applications engineering"
+      },
+      {
+       "label": "Program Management",
+       "value": "program management"
+      },
+      {
+       "label": "Product Management",
+       "value": "product management"
+      },
+      {
+       "label": "GPU ASICS Engineering",
+       "value": "gpu asics engineering"
+      },
+      {
+       "label": "Interim Engineering Intern - SW",
+       "value": "interim engineering intern - sw"
+      },
+      {
+       "label": "Interim Intern",
+       "value": "interim intern"
+      },
+      {
+       "label": "Packaging Engineering",
+       "value": "packaging engineering"
+      },
+      {
+       "label": "IT Engineering",
+       "value": "it engineering"
+      },
+      {
+       "label": "Camera Engineering",
+       "value": "camera engineering"
+      },
+      {
+       "label": "Interim Engineering Intern - HW",
+       "value": "interim engineering intern - hw"
+      },
+      {
+       "label": "Systems Test Engineering",
+       "value": "systems test engineering"
+      },
+      {
+       "label": "Support Engineering",
+       "value": "support engineering"
+      },
+      {
+       "label": "DSP Architecture and Design",
+       "value": "dsp architecture and design"
+      },
+      {
+       "label": "Modem Technologies",
+       "value": "modem technologies"
+      },
+      {
+       "label": "Multimedia Systems",
+       "value": "multimedia systems"
+      },
+      {
+       "label": "Hardware Applications Engineering",
+       "value": "hardware applications engineering"
+      },
+      {
+       "label": "Product Marketing",
+       "value": "product marketing"
+      },
+      {
+       "label": "Sourcing",
+       "value": "sourcing"
+      },
+      {
+       "label": "Marketing",
+       "value": "marketing"
+      },
+      {
+       "label": "PPT Systems Engineering",
+       "value": "ppt systems engineering"
+      },
+      {
+       "label": "Program Analyst",
+       "value": "program analyst"
+      },
+      {
+       "label": "Systems Analysis",
+       "value": "systems analysis"
+      },
+      {
+       "label": "Finance",
+       "value": "finance"
+      },
+      {
+       "label": "SoC Architecture",
+       "value": "soc architecture"
+      },
+      {
+       "label": "Interim Engineering Intern - Systems",
+       "value": "interim engineering intern - systems"
+      },
+      {
+       "label": "Sales - Sales Incentive Plan",
+       "value": "sales - sales incentive plan"
+      },
+      {
+       "label": "Analog Mixed Signal Design",
+       "value": "analog mixed signal design"
+      },
+      {
+       "label": "Business Development",
+       "value": "business development"
+      },
+      {
+       "label": "Cellular Technologies Software",
+       "value": "cellular technologies software"
+      },
+      {
+       "label": "Graphics Software Engineering",
+       "value": "graphics software engineering"
+      },
+      {
+       "label": "Marketing Communications",
+       "value": "marketing communications"
+      },
+      {
+       "label": "Modem Technologies Software",
+       "value": "modem technologies software"
+      },
+      {
+       "label": "Software Test Engineering",
+       "value": "software test engineering"
+      },
+      {
+       "label": "Video Systems, HW Architecture",
+       "value": "video systems, hw architecture"
+      },
+      {
+       "label": "Administrative Support",
+       "value": "administrative support"
+      },
+      {
+       "label": "Contracts Administration/Management",
+       "value": "contracts administration/management"
+      },
+      {
+       "label": "Engineering Technician",
+       "value": "engineering technician"
+      },
+      {
+       "label": "Global Accounting Ops Center",
+       "value": "global accounting ops center"
+      },
+      {
+       "label": "IT Management",
+       "value": "it management"
+      },
+      {
+       "label": "Mask Layout Design",
+       "value": "mask layout design"
+      },
+      {
+       "label": "Modem Software Engineering",
+       "value": "modem software engineering"
+      },
+      {
+       "label": "Cellular System Test Engineering",
+       "value": "cellular system test engineering"
+      },
+      {
+       "label": "Process Development Engineering",
+       "value": "process development engineering"
+      },
+      {
+       "label": "Technical Standards Engineering",
+       "value": "technical standards engineering"
+      },
+      {
+       "label": "Camera Software Engineering",
+       "value": "camera software engineering"
+      },
+      {
+       "label": "Engineering Operations",
+       "value": "engineering operations"
+      },
+      {
+       "label": "IT Software Developer",
+       "value": "it software developer"
+      },
+      {
+       "label": "Legal Counsel",
+       "value": "legal counsel"
+      },
+      {
+       "label": "Machine Learning Researcher",
+       "value": "machine learning researcher"
+      },
+      {
+       "label": "Mobile Chipset PE, MDM & MSM",
+       "value": "mobile chipset pe, mdm & msm"
+      },
+      {
+       "label": "PWB Design",
+       "value": "pwb design"
+      },
+      {
+       "label": "RFIC Design",
+       "value": "rfic design"
+      },
+      {
+       "label": "Security Engineering",
+       "value": "security engineering"
+      },
+      {
+       "label": "asics engineering; cpu engineering",
+       "value": "asics engineering; cpu engineering"
+      },
+      {
+       "label": "Business Operations",
+       "value": "business operations"
+      },
+      {
+       "label": "Cyber Security Engineering",
+       "value": "cyber security engineering"
+      },
+      {
+       "label": "Data Science",
+       "value": "data science"
+      },
+      {
+       "label": "Government Affairs",
+       "value": "government affairs"
+      },
+      {
+       "label": "Industrial Engineering",
+       "value": "industrial engineering"
+      },
+      {
+       "label": "IT Data Engineer",
+       "value": "it data engineer"
+      },
+      {
+       "label": "Manufacturing Engineering",
+       "value": "manufacturing engineering"
+      },
+      {
+       "label": "Payroll",
+       "value": "payroll"
+      },
+      {
+       "label": "PMIC Design",
+       "value": "pmic design"
+      },
+      {
+       "label": "Project Analyst",
+       "value": "project analyst"
+      },
+      {
+       "label": "AI Resident",
+       "value": "ai resident"
+      },
+      {
+       "label": "Cellular Technologies",
+       "value": "cellular technologies"
+      },
+      {
+       "label": "Compiler Toolchain Software",
+       "value": "compiler toolchain software"
+      },
+      {
+       "label": "CPU Architecture",
+       "value": "cpu architecture"
+      },
+      {
+       "label": "Department Support Administration",
+       "value": "department support administration"
+      },
+      {
+       "label": "Field Applications Engineering - ACIP",
+       "value": "field applications engineering - acip"
+      },
+      {
+       "label": "IT Architect",
+       "value": "it architect"
+      },
+      {
+       "label": "IT Program Management",
+       "value": "it program management"
+      },
+      {
+       "label": "Laboratory",
+       "value": "laboratory"
+      },
+      {
+       "label": "Marketing Analysis",
+       "value": "marketing analysis"
+      },
+      {
+       "label": "Office Administration",
+       "value": "office administration"
+      },
+      {
+       "label": "Patent Counsel",
+       "value": "patent counsel"
+      },
+      {
+       "label": "PMIC Systems",
+       "value": "pmic systems"
+      },
+      {
+       "label": "Reliability Development Engineering",
+       "value": "reliability development engineering"
+      },
+      {
+       "label": "Sales - ACIP",
+       "value": "sales - acip"
+      },
+      {
+       "label": "Sales Operations",
+       "value": "sales operations"
+      },
+      {
+       "label": "Sourcing & Reliability Engineering",
+       "value": "sourcing & reliability engineering"
+      },
+      {
+       "label": "Talent Acquisition",
+       "value": "talent acquisition"
+      },
+      {
+       "label": "Tax",
+       "value": "tax"
+      },
+      {
+       "label": "Technical Communications - Writing",
+       "value": "technical communications - writing"
+      },
+      {
+       "label": "Video Standards Engineering",
+       "value": "video standards engineering"
+      },
+      {
+       "label": "ADAS R&D Software",
+       "value": "adas r&d software"
+      },
+      {
+       "label": "Business Development - SIP",
+       "value": "business development - sip"
+      },
+      {
+       "label": "Business Process Analysis",
+       "value": "business process analysis"
+      },
+      {
+       "label": "CAD Component",
+       "value": "cad component"
+      },
+      {
+       "label": "Compensation",
+       "value": "compensation"
+      },
+      {
+       "label": "Compliance",
+       "value": "compliance"
+      },
+      {
+       "label": "Demand Analysis",
+       "value": "demand analysis"
+      },
+      {
+       "label": "Employee Communications",
+       "value": "employee communications"
+      },
+      {
+       "label": "Employee Relations",
+       "value": "employee relations"
+      },
+      {
+       "label": "Engineering Intern",
+       "value": "engineering intern"
+      },
+      {
+       "label": "Export Compliance",
+       "value": "export compliance"
+      },
+      {
+       "label": "Field Applications Engineering",
+       "value": "field applications engineering"
+      },
+      {
+       "label": "Hardware Systems Engineering",
+       "value": "hardware systems engineering"
+      },
+      {
+       "label": "HR Management Systems",
+       "value": "hr management systems"
+      },
+      {
+       "label": "Human Resources",
+       "value": "human resources"
+      },
+      {
+       "label": "Intern",
+       "value": "intern"
+      },
+      {
+       "label": "IT Cloud Architect",
+       "value": "it cloud architect"
+      },
+      {
+       "label": "IT Project Management",
+       "value": "it project management"
+      },
+      {
+       "label": "IT Software Engineer",
+       "value": "it software engineer"
+      },
+      {
+       "label": "Layout Engineer",
+       "value": "layout engineer"
+      },
+      {
+       "label": "Legal Specialist",
+       "value": "legal specialist"
+      },
+      {
+       "label": "Logistics/Traffic",
+       "value": "logistics/traffic"
+      },
+      {
+       "label": "Marketing Events",
+       "value": "marketing events"
+      },
+      {
+       "label": "Mechanical Engineering",
+       "value": "mechanical engineering"
+      },
+      {
+       "label": "Multimedia Design",
+       "value": "multimedia design"
+      },
+      {
+       "label": "Planner",
+       "value": "planner"
+      },
+      {
+       "label": "Procurement",
+       "value": "procurement"
+      },
+      {
+       "label": "Product Marketing - SIP",
+       "value": "product marketing - sip"
+      },
+      {
+       "label": "Public Relations",
+       "value": "public relations"
+      },
+      {
+       "label": "Quality Assurance Engineering",
+       "value": "quality assurance engineering"
+      },
+      {
+       "label": "RFFE ASIC Design",
+       "value": "rffe asic design"
+      },
+      {
+       "label": "Security",
+       "value": "security"
+      },
+      {
+       "label": "software applications engineering; systems engineering",
+       "value": "software applications engineering; systems engineering"
+      },
+      {
+       "label": "software engineering; machine learning engineering",
+       "value": "software engineering; machine learning engineering"
+      },
+      {
+       "label": "Stock Plan Administration",
+       "value": "stock plan administration"
+      },
+      {
+       "label": "Supply Chain Management",
+       "value": "supply chain management"
+      },
+      {
+       "label": "Technical Training",
+       "value": "technical training"
+      },
+      {
+       "label": "Total Rewards Management",
+       "value": "total rewards management"
+      },
+      {
+       "label": "Treasury",
+       "value": "treasury"
+      },
+      {
+       "label": "Treasury Investment",
+       "value": "treasury investment"
+      }
+     ],
+     "tooltip": null,
+     "extraData": {},
+     "displayCount": 40,
+     "translateOptions": true,
+     "allowFreeText": false
+    },
+    {
+     "type": "multi_select_facet_search",
+     "filterName": "skills",
+     "title": "Skills",
+     "options": [
+      {
+       "label": "Debugging",
+       "value": "Debugging"
+      },
+      {
+       "label": "Python",
+       "value": "Python"
+      },
+      {
+       "label": "Teamwork",
+       "value": "Teamwork"
+      },
+      {
+       "label": "Simulations",
+       "value": "Simulations"
+      },
+      {
+       "label": "Verilog",
+       "value": "Verilog"
+      },
+      {
+       "label": "Artificial Intelligence",
+       "value": "Artificial Intelligence"
+      },
+      {
+       "label": "Firmware",
+       "value": "Firmware"
+      },
+      {
+       "label": "SystemVerilog",
+       "value": "SystemVerilog"
+      },
+      {
+       "label": "I2C",
+       "value": "I2C"
+      },
+      {
+       "label": "Validation Framework",
+       "value": "Validation Framework"
+      },
+      {
+       "label": "Algorithms",
+       "value": "Algorithms"
+      },
+      {
+       "label": "Git",
+       "value": "Git"
+      },
+      {
+       "label": "TCP/IP",
+       "value": "TCP/IP"
+      },
+      {
+       "label": "Scripting",
+       "value": "Scripting"
+      },
+      {
+       "label": "Automation",
+       "value": "Automation"
+      },
+      {
+       "label": "Linux",
+       "value": "Linux"
+      },
+      {
+       "label": "UART",
+       "value": "UART"
+      },
+      {
+       "label": "System on Chip",
+       "value": "System on Chip"
+      },
+      {
+       "label": "MATLAB",
+       "value": "MATLAB"
+      },
+      {
+       "label": "Semiconductors",
+       "value": "Semiconductors"
+      },
+      {
+       "label": "Electronics",
+       "value": "Electronics"
+      },
+      {
+       "label": "Deployments",
+       "value": "Deployments"
+      },
+      {
+       "label": "Architecture",
+       "value": "Architecture"
+      },
+      {
+       "label": "Arm64",
+       "value": "Arm64"
+      },
+      {
+       "label": "Coding",
+       "value": "Coding"
+      },
+      {
+       "label": "Electrical Engineering",
+       "value": "Electrical Engineering"
+      },
+      {
+       "label": "Engineering",
+       "value": "Engineering"
+      },
+      {
+       "label": "Oscilloscope",
+       "value": "Oscilloscope"
+      },
+      {
+       "label": "Implementation",
+       "value": "Implementation"
+      },
+      {
+       "label": "Optimization Software",
+       "value": "Optimization Software"
+      },
+      {
+       "label": "JTAG",
+       "value": "JTAG"
+      },
+      {
+       "label": "Computer Science",
+       "value": "Computer Science"
+      },
+      {
+       "label": "Language Skills",
+       "value": "Language Skills"
+      },
+      {
+       "label": "Perl",
+       "value": "Perl"
+      },
+      {
+       "label": "Programming",
+       "value": "Programming"
+      },
+      {
+       "label": "Reliability",
+       "value": "Reliability"
+      },
+      {
+       "label": "Subsystems",
+       "value": "Subsystems"
+      },
+      {
+       "label": "Testing",
+       "value": "Testing"
+      },
+      {
+       "label": "Embedded Systems",
+       "value": "Embedded Systems"
+      },
+      {
+       "label": "C++",
+       "value": "C++"
+      },
+      {
+       "label": "Workflow",
+       "value": "Workflow"
+      },
+      {
+       "label": "ModelSim",
+       "value": "ModelSim"
+      },
+      {
+       "label": "Cross Functional Skills",
+       "value": "Cross Functional Skills"
+      },
+      {
+       "label": "Design Verification",
+       "value": "Design Verification"
+      },
+      {
+       "label": "Microcontrollers",
+       "value": "Microcontrollers"
+      },
+      {
+       "label": "Design",
+       "value": "Design"
+      },
+      {
+       "label": "VHDL",
+       "value": "VHDL"
+      },
+      {
+       "label": "Machine Learning",
+       "value": "Machine Learning"
+      },
+      {
+       "label": "Docker",
+       "value": "Docker"
+      },
+      {
+       "label": "Emulation",
+       "value": "Emulation"
+      },
+      {
+       "label": "Communication",
+       "value": "Communication"
+      },
+      {
+       "label": "GitHub",
+       "value": "GitHub"
+      },
+      {
+       "label": "Physical Design",
+       "value": "Physical Design"
+      },
+      {
+       "label": "TensorFlow",
+       "value": "TensorFlow"
+      },
+      {
+       "label": "Signalling",
+       "value": "Signalling"
+      },
+      {
+       "label": "Latency",
+       "value": "Latency"
+      },
+      {
+       "label": "Assertiveness",
+       "value": "Assertiveness"
+      },
+      {
+       "label": "Compilers",
+       "value": "Compilers"
+      },
+      {
+       "label": "Software Engineering",
+       "value": "Software Engineering"
+      },
+      {
+       "label": "Alignment",
+       "value": "Alignment"
+      },
+      {
+       "label": "Collaboration",
+       "value": "Collaboration"
+      },
+      {
+       "label": "Software Development",
+       "value": "Software Development"
+      },
+      {
+       "label": "Kernel",
+       "value": "Kernel"
+      },
+      {
+       "label": "Standardization",
+       "value": "Standardization"
+      },
+      {
+       "label": "Manufacturing",
+       "value": "Manufacturing"
+      },
+      {
+       "label": "Technical Proficiency",
+       "value": "Technical Proficiency"
+      },
+      {
+       "label": "Computer Engineering",
+       "value": "Computer Engineering"
+      },
+      {
+       "label": "Kubernetes",
+       "value": "Kubernetes"
+      },
+      {
+       "label": "Universal Verification Methodology",
+       "value": "Universal Verification Methodology"
+      },
+      {
+       "label": "Ethernet",
+       "value": "Ethernet"
+      },
+      {
+       "label": "EDA Tools",
+       "value": "EDA Tools"
+      },
+      {
+       "label": "Problem Solving",
+       "value": "Problem Solving"
+      },
+      {
+       "label": "Floorplanning",
+       "value": "Floorplanning"
+      },
+      {
+       "label": "Jira",
+       "value": "Jira"
+      },
+      {
+       "label": "Multithreading",
+       "value": "Multithreading"
+      },
+      {
+       "label": "Project Management",
+       "value": "Project Management"
+      },
+      {
+       "label": "Sensors",
+       "value": "Sensors"
+      },
+      {
+       "label": "Programming Languages",
+       "value": "Programming Languages"
+      },
+      {
+       "label": "5G",
+       "value": "5G"
+      },
+      {
+       "label": "Circuits",
+       "value": "Circuits"
+      },
+      {
+       "label": "PyTorch",
+       "value": "PyTorch"
+      },
+      {
+       "label": "Java",
+       "value": "Java"
+      },
+      {
+       "label": "Bash",
+       "value": "Bash"
+      },
+      {
+       "label": "Layout Versus Schematic",
+       "value": "Layout Versus Schematic"
+      },
+      {
+       "label": "Device Drivers",
+       "value": "Device Drivers"
+      },
+      {
+       "label": "ASIC Design",
+       "value": "ASIC Design"
+      },
+      {
+       "label": "C",
+       "value": "C"
+      },
+      {
+       "label": "Schematics",
+       "value": "Schematics"
+      },
+      {
+       "label": "Bootloader",
+       "value": "Bootloader"
+      },
+      {
+       "label": "Vivado",
+       "value": "Vivado"
+      },
+      {
+       "label": "Budgeting",
+       "value": "Budgeting"
+      },
+      {
+       "label": "Computer Architecture",
+       "value": "Computer Architecture"
+      },
+      {
+       "label": "Numpy",
+       "value": "Numpy"
+      },
+      {
+       "label": "Processors",
+       "value": "Processors"
+      },
+      {
+       "label": "Android",
+       "value": "Android"
+      },
+      {
+       "label": "Product Management",
+       "value": "Product Management"
+      },
+      {
+       "label": "Linux Kernel",
+       "value": "Linux Kernel"
+      },
+      {
+       "label": "Static Timing Analysis",
+       "value": "Static Timing Analysis"
+      },
+      {
+       "label": "Pandas",
+       "value": "Pandas"
+      },
+      {
+       "label": "scikit-learn",
+       "value": "scikit-learn"
+      },
+      {
+       "label": "Jenkins",
+       "value": "Jenkins"
+      },
+      {
+       "label": "Systems Engineering",
+       "value": "Systems Engineering"
+      },
+      {
+       "label": "Troubleshooting",
+       "value": "Troubleshooting"
+      },
+      {
+       "label": "FreeRTOS",
+       "value": "FreeRTOS"
+      },
+      {
+       "label": "Microprocessors",
+       "value": "Microprocessors"
+      },
+      {
+       "label": "Stacks",
+       "value": "Stacks"
+      },
+      {
+       "label": "Deep Learning",
+       "value": "Deep Learning"
+      },
+      {
+       "label": "Methodology",
+       "value": "Methodology"
+      },
+      {
+       "label": "Prediction",
+       "value": "Prediction"
+      },
+      {
+       "label": "Program Management",
+       "value": "Program Management"
+      },
+      {
+       "label": "Field Programmable Gate Array",
+       "value": "Field Programmable Gate Array"
+      },
+      {
+       "label": "Dataset",
+       "value": "Dataset"
+      },
+      {
+       "label": "Modeling",
+       "value": "Modeling"
+      },
+      {
+       "label": "Register Transfer Level Design",
+       "value": "Register Transfer Level Design"
+      },
+      {
+       "label": "Support",
+       "value": "Support"
+      },
+      {
+       "label": "Test Planning",
+       "value": "Test Planning"
+      },
+      {
+       "label": "Vectorization",
+       "value": "Vectorization"
+      },
+      {
+       "label": "Microsoft Excel",
+       "value": "Microsoft Excel"
+      },
+      {
+       "label": "Documentation",
+       "value": "Documentation"
+      },
+      {
+       "label": "Layouting",
+       "value": "Layouting"
+      },
+      {
+       "label": "Physical Verification",
+       "value": "Physical Verification"
+      },
+      {
+       "label": "Infrastructure",
+       "value": "Infrastructure"
+      },
+      {
+       "label": "Process Improvement",
+       "value": "Process Improvement"
+      },
+      {
+       "label": "DevOps",
+       "value": "DevOps"
+      },
+      {
+       "label": "Intermediate Representation",
+       "value": "Intermediate Representation"
+      },
+      {
+       "label": "Security",
+       "value": "Security"
+      },
+      {
+       "label": "Cross-Functional Collaborations",
+       "value": "Cross-Functional Collaborations"
+      },
+      {
+       "label": "Data Analysis",
+       "value": "Data Analysis"
+      },
+      {
+       "label": "Compliance",
+       "value": "Compliance"
+      },
+      {
+       "label": "Operations",
+       "value": "Operations"
+      },
+      {
+       "label": "Routing and Switching",
+       "value": "Routing and Switching"
+      },
+      {
+       "label": "Technical Leadership",
+       "value": "Technical Leadership"
+      },
+      {
+       "label": "Analytics",
+       "value": "Analytics"
+      },
+      {
+       "label": "Computer Vision",
+       "value": "Computer Vision"
+      },
+      {
+       "label": "CUDA",
+       "value": "CUDA"
+      },
+      {
+       "label": "Electronics Engineering",
+       "value": "Electronics Engineering"
+      },
+      {
+       "label": "Leadership",
+       "value": "Leadership"
+      },
+      {
+       "label": "OpenCV",
+       "value": "OpenCV"
+      },
+      {
+       "label": "Digital Design",
+       "value": "Digital Design"
+      },
+      {
+       "label": "Power Management",
+       "value": "Power Management"
+      },
+      {
+       "label": "Innovation",
+       "value": "Innovation"
+      },
+      {
+       "label": "Reporting",
+       "value": "Reporting"
+      },
+      {
+       "label": "System Design",
+       "value": "System Design"
+      },
+      {
+       "label": "Test Automation",
+       "value": "Test Automation"
+      },
+      {
+       "label": "Telemetry",
+       "value": "Telemetry"
+      },
+      {
+       "label": "Continuous Integration",
+       "value": "Continuous Integration"
+      },
+      {
+       "label": "Data Structures",
+       "value": "Data Structures"
+      },
+      {
+       "label": "Trace32",
+       "value": "Trace32"
+      },
+      {
+       "label": "API",
+       "value": "API"
+      },
+      {
+       "label": "System Architecture",
+       "value": "System Architecture"
+      },
+      {
+       "label": "Assembly Language",
+       "value": "Assembly Language"
+      },
+      {
+       "label": "Finance",
+       "value": "Finance"
+      },
+      {
+       "label": "Calibration",
+       "value": "Calibration"
+      },
+      {
+       "label": "Circuit Design",
+       "value": "Circuit Design"
+      },
+      {
+       "label": "Operating Systems",
+       "value": "Operating Systems"
+      },
+      {
+       "label": "Robotics",
+       "value": "Robotics"
+      },
+      {
+       "label": "Transformation",
+       "value": "Transformation"
+      },
+      {
+       "label": "LTE",
+       "value": "LTE"
+      },
+      {
+       "label": "Synchronization",
+       "value": "Synchronization"
+      },
+      {
+       "label": "Foundry",
+       "value": "Foundry"
+      },
+      {
+       "label": "Orchestration",
+       "value": "Orchestration"
+      },
+      {
+       "label": "Point-To-Point Protocols",
+       "value": "Point-To-Point Protocols"
+      },
+      {
+       "label": "GitLab",
+       "value": "GitLab"
+      },
+      {
+       "label": "Microservices",
+       "value": "Microservices"
+      },
+      {
+       "label": "HSPICE",
+       "value": "HSPICE"
+      },
+      {
+       "label": "TypeScript",
+       "value": "TypeScript"
+      },
+      {
+       "label": "Computing",
+       "value": "Computing"
+      },
+      {
+       "label": "Perforce",
+       "value": "Perforce"
+      },
+      {
+       "label": "Formal Verification",
+       "value": "Formal Verification"
+      },
+      {
+       "label": "Prioritization",
+       "value": "Prioritization"
+      },
+      {
+       "label": "Storage Area Network (SAN)",
+       "value": "Storage Area Network (SAN)"
+      },
+      {
+       "label": "Technical Documentation",
+       "value": "Technical Documentation"
+      },
+      {
+       "label": "Low Power Design",
+       "value": "Low Power Design"
+      },
+      {
+       "label": "VLSI Design",
+       "value": "VLSI Design"
+      },
+      {
+       "label": "React",
+       "value": "React"
+      },
+      {
+       "label": "STM32",
+       "value": "STM32"
+      },
+      {
+       "label": "Cadence Virtuoso",
+       "value": "Cadence Virtuoso"
+      },
+      {
+       "label": "Flow Design",
+       "value": "Flow Design"
+      },
+      {
+       "label": "Hardware Design",
+       "value": "Hardware Design"
+      },
+      {
+       "label": "Performance Analysis",
+       "value": "Performance Analysis"
+      },
+      {
+       "label": "Product Development",
+       "value": "Product Development"
+      },
+      {
+       "label": "Research",
+       "value": "Research"
+      },
+      {
+       "label": "Terraform",
+       "value": "Terraform"
+      },
+      {
+       "label": "Bluetooth",
+       "value": "Bluetooth"
+      },
+      {
+       "label": "CPU",
+       "value": "CPU"
+      },
+      {
+       "label": "Embedded C",
+       "value": "Embedded C"
+      },
+      {
+       "label": "Microelectronics",
+       "value": "Microelectronics"
+      },
+      {
+       "label": "Power Integrity",
+       "value": "Power Integrity"
+      },
+      {
+       "label": "Risk Management",
+       "value": "Risk Management"
+      },
+      {
+       "label": "Signal Processing",
+       "value": "Signal Processing"
+      },
+      {
+       "label": "CAD Software",
+       "value": "CAD Software"
+      },
+      {
+       "label": "Communication Engineering",
+       "value": "Communication Engineering"
+      },
+      {
+       "label": "Generative AI",
+       "value": "Generative AI"
+      },
+      {
+       "label": "Hand Saw",
+       "value": "Hand Saw"
+      },
+      {
+       "label": "Root Cause Analysis",
+       "value": "Root Cause Analysis"
+      },
+      {
+       "label": "Scalability",
+       "value": "Scalability"
+      },
+      {
+       "label": "Business Development",
+       "value": "Business Development"
+      },
+      {
+       "label": "Image Processing",
+       "value": "Image Processing"
+      },
+      {
+       "label": "Application-Specific Integrated Circuit",
+       "value": "Application-Specific Integrated Circuit"
+      },
+      {
+       "label": "Porting",
+       "value": "Porting"
+      }
+     ],
+     "tooltip": null,
+     "extraData": {},
+     "displayCount": 40,
+     "translateOptions": false,
+     "allowFreeText": false
+    },
+    {
+     "type": "multi_select",
+     "filterName": "seniority",
+     "title": "Seniority",
+     "options": [
+      {
+       "label": "Senior",
+       "value": "Senior"
+      },
+      {
+       "label": "Entry",
+       "value": "Entry"
+      },
+      {
+       "label": "Mid-Level",
+       "value": "Mid-Level"
+      },
+      {
+       "label": "Manager",
+       "value": "Manager"
+      },
+      {
+       "label": "Intern",
+       "value": "Intern"
+      },
+      {
+       "label": "Director",
+       "value": "Director"
+      },
+      {
+       "label": "Vice President",
+       "value": "Vice President"
+      },
+      {
+       "label": "CXO",
+       "value": "CXO"
+      }
+     ],
+     "tooltip": null,
+     "extraData": {},
+     "displayCount": 10,
+     "translateOptions": false,
+     "allowFreeText": false
+    },
+    {
+     "type": "latlong",
+     "filterName": "latlong_non_remote",
+     "title": "LatLong",
+     "options": [
+      {
+       "label": 628,
+       "value": "32.715738,-117.1610838"
+      },
+      {
+       "label": 363,
+       "value": "12.9628957,77.57754"
+      },
+      {
+       "label": 186,
+       "value": "37.3541079,-121.9552356"
+      },
+      {
+       "label": 147,
+       "value": "17.406498,78.47724389999999"
+      },
+      {
+       "label": 122,
+       "value": "30.267153,-97.7430608"
+      },
+      {
+       "label": 111,
+       "value": "24.8138287,120.9674798"
+      },
+      {
+       "label": 80,
+       "value": "51.8985143,-8.4756035"
+      },
+      {
+       "label": 72,
+       "value": "32.5331957,-117.0192784"
+      },
+      {
+       "label": 60,
+       "value": "43.8599076,-79.3349945"
+      },
+      {
+       "label": 50,
+       "value": "25.0329636,121.5654268"
+      },
+      {
+       "label": 48,
+       "value": "31.230416,121.473701"
+      },
+      {
+       "label": 44,
+       "value": "28.5355161,77.3910265"
+      },
+      {
+       "label": 40,
+       "value": "23.1317099,113.26627"
+      },
+      {
+       "label": 35,
+       "value": "19.4326077,-99.133208"
+      },
+      {
+       "label": 31,
+       "value": "43.6548253,-79.388447"
+      },
+      {
+       "label": 26,
+       "value": "1.2789227,103.8536113"
+      },
+      {
+       "label": 26,
+       "value": "13.0843007,80.2704622"
+      },
+      {
+       "label": 26,
+       "value": "45.5201336,-122.9898149"
+      },
+      {
+       "label": 22,
+       "value": "32.7857163,34.9693239"
+      },
+      {
+       "label": 21,
+       "value": "10.8230989,106.6296638"
+      },
+      {
+       "label": 20,
+       "value": "38.6779591,-121.1760583"
+      },
+      {
+       "label": 19,
+       "value": "39.904211,116.407395"
+      },
+      {
+       "label": 16,
+       "value": "42.4834197,-71.5167139"
+      },
+      {
+       "label": 15,
+       "value": "48.1351253,11.5819806"
+      },
+      {
+       "label": 14,
+       "value": "45.4200572,-75.7003397"
+      },
+      {
+       "label": 13,
+       "value": "48.762895,2.075323"
+      },
+      {
+       "label": 12,
+       "value": "30.5722599,104.0665099"
+      },
+      {
+       "label": 12,
+       "value": "37.550263,126.9970831"
+      },
+      {
+       "label": 11,
+       "value": "45.0703393,7.686864"
+      },
+      {
+       "label": 11,
+       "value": "52.1950788,0.1312729"
+      },
+      {
+       "label": 10,
+       "value": "35.7795897,-78.6381787"
+      },
+      {
+       "label": 10,
+       "value": "40.0149856,-105.2705456"
+      },
+      {
+       "label": 10,
+       "value": "49.2827291,-123.1207375"
+      },
+      {
+       "label": 9,
+       "value": "35.6764225,139.650027"
+      },
+      {
+       "label": 8,
+       "value": "21.0277644,105.8341598"
+      },
+      {
+       "label": 7,
+       "value": "32.7940463,34.989571"
+      },
+      {
+       "label": 6,
+       "value": "33.4255104,-111.9400054"
+      },
+      {
+       "label": 6,
+       "value": "40.0583238,-74.4056612"
+      },
+      {
+       "label": 6,
+       "value": "43.0059455,-123.8925908"
+      },
+      {
+       "label": 5,
+       "value": "38.0549562,23.807655"
+      },
+      {
+       "label": 5,
+       "value": "44.07787159999999,6.2375947"
+      },
+      {
+       "label": 5,
+       "value": "45.188529,5.724524"
+      },
+      {
+       "label": 5,
+       "value": "48.8245306,2.2743419"
+      },
+      {
+       "label": 4,
+       "value": "32.271928,34.871979"
+      },
+      {
+       "label": 4,
+       "value": "34.341574,108.93977"
+      },
+      {
+       "label": 4,
+       "value": "35.7595731,-79.01929969999999"
+      },
+      {
+       "label": 4,
+       "value": "37.3229978,-122.0321823"
+      },
+      {
+       "label": 4,
+       "value": "37.33874,-121.8852525"
+      },
+      {
+       "label": 4,
+       "value": "37.4142849,127.4681396"
+      },
+      {
+       "label": 4,
+       "value": "37.8271784,-122.2913078"
+      },
+      {
+       "label": 4,
+       "value": "40.7127753,-74.0059728"
+      },
+      {
+       "label": 4,
+       "value": "55.378051,-3.435973"
+      },
+      {
+       "label": 3,
+       "value": "-23.5557714,-46.6395571"
+      },
+      {
+       "label": 3,
+       "value": "23.69781,120.960515"
+      },
+      {
+       "label": 3,
+       "value": "31.491169,120.31191"
+      },
+      {
+       "label": 3,
+       "value": "33.6845673,-117.8265049"
+      },
+      {
+       "label": 3,
+       "value": "41.87194,12.56738"
+      },
+      {
+       "label": 3,
+       "value": "48.7667395,11.4226498"
+      },
+      {
+       "label": 3,
+       "value": "51.2868939,-0.7526149999999999"
+      },
+      {
+       "label": 3,
+       "value": "52.3675734,4.9041389"
+      },
+      {
+       "label": 3,
+       "value": "56.130366,-106.346771"
+      },
+      {
+       "label": 2,
+       "value": "18.5246091,73.8786239"
+      },
+      {
+       "label": 2,
+       "value": "22.6272772,120.3014375"
+      },
+      {
+       "label": 2,
+       "value": "28.4020007,76.8259652"
+      },
+      {
+       "label": 2,
+       "value": "31.9685988,-99.9018131"
+      },
+      {
+       "label": 2,
+       "value": "35.0182505,137.2923893"
+      },
+      {
+       "label": 2,
+       "value": "40.46366700000001,-3.74922"
+      },
+      {
+       "label": 2,
+       "value": "41.8967068,12.4822025"
+      },
+      {
+       "label": 2,
+       "value": "42.48059,-83.4754913"
+      },
+      {
+       "label": 2,
+       "value": "46.227638,2.213749"
+      },
+      {
+       "label": 2,
+       "value": "58.41080700000001,15.6213728"
+      },
+      {
+       "label": 1,
+       "value": "-25.274398,133.775136"
+      },
+      {
+       "label": 1,
+       "value": "-33.8622503,151.207684"
+      },
+      {
+       "label": 1,
+       "value": "1.352083,103.819836"
+      },
+      {
+       "label": 1,
+       "value": "15.870032,100.992541"
+      },
+      {
+       "label": 1,
+       "value": "18.9582347,72.8319514"
+      },
+      {
+       "label": 1,
+       "value": "24.1629765,120.6746104"
+      },
+      {
+       "label": 1,
+       "value": "32.068424,34.824785"
+      },
+      {
+       "label": 1,
+       "value": "32.1574351,-82.90712300000001"
+      },
+      {
+       "label": 1,
+       "value": "35.907757,127.766922"
+      },
+      {
+       "label": 1,
+       "value": "36.204824,138.252924"
+      },
+      {
+       "label": 1,
+       "value": "37.3852183,-122.1141298"
+      },
+      {
+       "label": 1,
+       "value": "38.2526647,-85.7584557"
+      },
+      {
+       "label": 1,
+       "value": "38.9071923,-77.0368707"
+      },
+      {
+       "label": 1,
+       "value": "39.7392358,-104.990251"
+      },
+      {
+       "label": 1,
+       "value": "4.210484,101.975766"
+      },
+      {
+       "label": 1,
+       "value": "4.570868,-74.297333"
+      },
+      {
+       "label": 1,
+       "value": "42.331427,-83.0457538"
+      },
+      {
+       "label": 1,
+       "value": "42.4072107,-71.3824374"
+      },
+      {
+       "label": 1,
+       "value": "43.8561002,-79.3370188"
+      },
+      {
+       "label": 1,
+       "value": "45.7557559,21.2322208"
+      },
+      {
+       "label": 1,
+       "value": "47.6061389,-122.3328481"
+      },
+      {
+       "label": 1,
+       "value": "47.6739881,-122.121512"
+      },
+      {
+       "label": 1,
+       "value": "47.7510741,-120.7401386"
+      },
+      {
+       "label": 1,
+       "value": "51.5072178,-0.1275862"
+      },
+      {
+       "label": 1,
+       "value": "52.6575162,5.0624505"
+      },
+      {
+       "label": 1,
+       "value": "60.12816100000001,18.643501"
+      }
+     ],
+     "tooltip": null,
+     "extraData": {},
+     "displayCount": 10,
+     "translateOptions": false,
+     "allowFreeText": false
+    },
+    {
+     "type": "latlong",
+     "filterName": "latlong_remote",
+     "title": "LatLong",
+     "options": null,
+     "tooltip": null,
+     "extraData": {},
+     "displayCount": 10,
+     "translateOptions": false,
+     "allowFreeText": false
+    }
+   ]
+  },
+  "count": 2,
+  "sortBy": "timestamp",
+  "appliedFilters": {},
+  "debug": {},
+  "savedSearchMetadata": {
+   "savedSearchParamsHash": null,
+   "isSavedSearchActive": false
+  },
+  "resultsMetaData": {
+   "usedFuzzSearch": false,
+   "mocTitle": null
+  }
+ },
+ "metadata": null
+}

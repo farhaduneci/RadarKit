@@ -1,0 +1,36 @@
+{
+ "jobPostingInfo": {
+  "id": "4f3e4e467e9b1001426b7baaa7f00000",
+  "title": "Senior Formal Verification Engineer",
+  "jobDescription": "<p>We are looking for a Senior Formal Verification Engineer for our NVIDIA Networking team!</p><p></p><p>This is an exciting opportunity to join a hardworking Pre-Silicon design and verification team, working on groundbreaking NIC technologies. We deploy state-of-the art formal verification tools and methodologies to prove design correctness. Working in our formal verification team will expose you to a wide range of cutting edge design and technologies. Our NIC team delivers world class CPU interface and offload solutions for HPC, data-center, network, and storage markets. We micro-architect, ",
+  "location": "Israel, Yokneam",
+  "postedOn": "Posted Today",
+  "startDate": "2026-10-25",
+  "timeType": "Full time",
+  "jobReqId": "JR1997698",
+  "jobPostingId": "Senior-Formal-Verification-Engineer_JR1997698",
+  "jobPostingSiteId": "NVIDIAExternalCareerSite",
+  "country": {
+   "descriptor": "Israel",
+   "id": "084562884af243748dad7c84c304d89a"
+  },
+  "canApply": true,
+  "posted": true,
+  "includeResumeParsing": true,
+  "jobRequisitionLocation": {
+   "descriptor": "Israel, Yokneam",
+   "country": {
+    "descriptor": "Israel",
+    "id": "084562884af243748dad7c84c304d89a",
+    "alpha2Code": "IL"
+   }
+  },
+  "externalUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Formal-Verification-Engineer_JR1997698"
+ },
+ "hiringOrganization": {
+  "name": "IL00 Mellanox Technologies, Ltd.",
+  "url": ""
+ },
+ "similarJobs": [],
+ "userAuthenticated": false
+}

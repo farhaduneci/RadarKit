@@ -1,0 +1,42 @@
+{
+ "total": 2,
+ "jobPostings": [
+  {
+   "title": "Senior Formal Verification Engineer",
+   "externalPath": "/job/Israel-Yokneam/Senior-Formal-Verification-Engineer_JR1997698",
+   "locationsText": "Israel, Yokneam",
+   "postedOn": "Posted Today",
+   "bulletFields": [
+    "JR1997698"
+   ]
+  },
+  {
+   "title": "Senior System Software Engineer",
+   "externalPath": "/job/India-Pune/Senior-System-Software-Engineer_JR2028521",
+   "locationsText": "2 Locations",
+   "postedOn": "Posted Today",
+   "bulletFields": [
+    "JR2028521"
+   ]
+  }
+ ],
+ "facets": [
+  {
+   "facetParameter": "jobFamilyGroup",
+   "descriptor": "Job Category",
+   "values": [
+    {
+     "descriptor": "Engineering",
+     "id": "0c40f6bd1d8f10ae43ffaefd46dc7e78",
+     "count": 1747
+    },
+    {
+     "descriptor": "Sales",
+     "id": "0c40f6bd1d8f10ae43ffcac5bbec7e90",
+     "count": 325
+    }
+   ]
+  }
+ ],
+ "userAuthenticated": false
+}

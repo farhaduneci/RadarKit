@@ -1,0 +1,122 @@
+[
+ {
+  "absolute_url": "https://jobs.gem.com/groq/am9icG9zdDqAUz7G7JlGLHQawWv7Sec2",
+  "content": "<div><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">About Groq</strong></div><div><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Inference is the engine that powers AI, and Groq was built from the silicon up to deliver the world's fastest inference at scale. We pioneered the LPU\u2014the first processor designed specifically for AI inference\u2014and are transforming that innovation into a global cloud platform powering production AI workloads.</span></div><div><br></div><div><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">With the capital, infra",
+  "content_plain": "About Groq\nInference is the engine that powers AI, and Groq was built from the silicon up to deliver the world's fastest inference at scale. We pioneered the LPU\u2014the first processor designed specifically for AI inference\u2014and are transforming that innovation into a global cloud platform powering production AI workloads.\nWith the capital, infrastructure, and team to execute, we're uniquely positioned to define the next era of AI infrastructure. The opportunity is massive, and it's still wide open. Now let's go build it!\nMission\nAs a Sr./Staff Forward Deployed Engineer focused on AI Infrastructur",
+  "created_at": "2026-05-29T17:50:59.850Z",
+  "departments": [
+   {
+    "child_ids": [],
+    "id": "4062353003",
+    "name": "Commercial Sales",
+    "parent_id": null
+   }
+  ],
+  "employment_type": "full_time",
+  "first_published_at": "2026-09-22T01:02:11.972Z",
+  "id": "am9icG9zdDqAUz7G7JlGLHQawWv7Sec2",
+  "internal_job_id": "am9iOrrtOTSCkB_Jac-ojoS-Idw",
+  "location": {
+   "name": "Dallas, United States"
+  },
+  "location_type": "in_office",
+  "offices": [
+   {
+    "child_ids": [],
+    "child_office_external_ids": [],
+    "id": "bG9jOnZbiga1juHejhlfMNN7JlQ",
+    "location": {
+     "name": "Dallas, United States"
+    },
+    "name": "Dallas-Fort Worth Area",
+    "parent_id": null,
+    "parent_office_external_id": null
+   },
+   {
+    "child_ids": [],
+    "child_office_external_ids": [],
+    "id": "bG9jOtknaPShsjxOjbKEc4g-xwc",
+    "location": {
+     "name": "New York, United States"
+    },
+    "name": "New York City Area",
+    "parent_id": null,
+    "parent_office_external_id": null
+   },
+   {
+    "child_ids": [],
+    "child_office_external_ids": [],
+    "id": "bG9jOtV69NmtzYLoPNT45IC-ZK8",
+    "location": {
+     "name": "San Francisco, United States"
+    },
+    "name": "San Francisco Bay Area",
+    "parent_id": null,
+    "parent_office_external_id": null
+   }
+  ],
+  "requisition_id": "R794",
+  "title": "Sr./Staff Forward Deployed Engineer",
+  "updated_at": "2026-10-14T21:51:21.693Z"
+ },
+ {
+  "absolute_url": "https://jobs.gem.com/groq/am9icG9zdDoqQI8SCKqZAgEsRq203tFU",
+  "content": "<div><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">About Groq</strong></div><div><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Inference is the engine that powers AI, and Groq was built from the silicon up to deliver the world's fastest inference at scale. We pioneered the LPU\u2014the first processor designed specifically for AI inference\u2014and are transforming that innovation into a global cloud platform powering production AI workloads.</span></div><div><br></div><div><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">With the capital, infra",
+  "content_plain": "About Groq\nInference is the engine that powers AI, and Groq was built from the silicon up to deliver the world's fastest inference at scale. We pioneered the LPU\u2014the first processor designed specifically for AI inference\u2014and are transforming that innovation into a global cloud platform powering production AI workloads.\nWith the capital, infrastructure, and team to execute, we're uniquely positioned to define the next era of AI infrastructure. The opportunity is massive, and it's still wide open. Now let's go build it!\nMission:\nBuild and own the technical marketing foundation that helps custome",
+  "created_at": "2026-06-16T20:40:09.407Z",
+  "departments": [
+   {
+    "child_ids": [],
+    "id": "4031392003",
+    "name": "Marketing",
+    "parent_id": null
+   }
+  ],
+  "employment_type": "full_time",
+  "first_published_at": "2026-06-18T21:08:54.080Z",
+  "id": "am9icG9zdDoqQI8SCKqZAgEsRq203tFU",
+  "internal_job_id": "am9iOrfSiwtebZJVPJ1HppPqLBo",
+  "location": {
+   "name": "San Francisco, United States"
+  },
+  "location_type": "in_office",
+  "offices": [
+   {
+    "child_ids": [],
+    "child_office_external_ids": [],
+    "id": "bG9jOtV69NmtzYLoPNT45IC-ZK8",
+    "location": {
+     "name": "San Francisco, United States"
+    },
+    "name": "San Francisco Bay Area",
+    "parent_id": null,
+    "parent_office_external_id": null
+   },
+   {
+    "child_ids": [],
+    "child_office_external_ids": [],
+    "id": "bG9jOnZbiga1juHejhlfMNN7JlQ",
+    "location": {
+     "name": "Dallas, United States"
+    },
+    "name": "Dallas-Fort Worth Area",
+    "parent_id": null,
+    "parent_office_external_id": null
+   },
+   {
+    "child_ids": [],
+    "child_office_external_ids": [],
+    "id": "bG9jOtknaPShsjxOjbKEc4g-xwc",
+    "location": {
+     "name": "New York, United States"
+    },
+    "name": "New York City Area",
+    "parent_id": null,
+    "parent_office_external_id": null
+   }
+  ],
+  "requisition_id": "R799",
+  "title": "Technical Product Marketing Manager",
+  "updated_at": "2026-10-23T16:15:39.304Z"
+ }
+]

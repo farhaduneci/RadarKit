@@ -1,0 +1,203 @@
+{
+ "items": [
+  {
+   "TotalJobsCount": 2,
+   "requisitionList": [
+    {
+     "Id": "340333",
+     "Title": "Oracle Fusion HCM Functional/ Techno-Functional Consultant (Contractor to Hire Role)",
+     "PostedDate": "2026-10-25",
+     "PostingEndDate": null,
+     "Language": "US",
+     "PrimaryLocationCountry": "IN",
+     "GeographyId": 300001842985425,
+     "HotJobFlag": false,
+     "WorkplaceTypeCode": null,
+     "JobFamily": null,
+     "JobFunction": null,
+     "WorkerType": null,
+     "ContractType": null,
+     "ManagerLevel": null,
+     "JobSchedule": null,
+     "JobShift": null,
+     "JobType": null,
+     "StudyLevel": null,
+     "DomesticTravelRequired": null,
+     "InternationalTravelRequired": null,
+     "WorkDurationYears": null,
+     "WorkDurationMonths": null,
+     "WorkHours": null,
+     "WorkDays": null,
+     "LegalEmployer": null,
+     "BusinessUnit": null,
+     "Department": null,
+     "Organization": null,
+     "BusinessUnitId": 300001096514516,
+     "LegalEmployerId": 300000000864862,
+     "OrganizationId": 300001902541887,
+     "MediaThumbURL": "https://img.youtube.com/vi/BV0GMCITXg4/hqdefault.jpg",
+     "ShortDescriptionStr": "Oracle Global Service Center (GSC) is a global delivery hub within Oracle focused on building long-term customer relationships through annuity contracts and project-based services. GSC delivers a broad portfolio of IT services across fixed-price and time-and-material engagements, supporting mission-critical applications for large global enterprises.\n\nAs a Center for Innovation and Expertise, GSC helps customers maximize their Oracle technology investments through innovation, automation, scalable delivery, and leading practices. This role operates within an Oracle Fusion HCM consulting and deli",
+     "PrimaryLocation": "BENGALURU, KARNATAKA, India",
+     "Distance": 1792886400000.0,
+     "TrendingFlag": true,
+     "BeFirstToApplyFlag": false,
+     "Relevancy": 9,
+     "WorkplaceType": "",
+     "ExternalQualificationsStr": null,
+     "ExternalResponsibilitiesStr": null,
+     "secondaryLocations": [
+      {
+       "RequisitionLocationId": 302967544032268,
+       "GeographyNodeId": 100879842726511,
+       "GeographyId": 300001842985230,
+       "Name": "HYDERABAD, TELANGANA, India",
+       "CountryCode": "IN",
+       "Latitude": 17.3174,
+       "Longitude": 78.6611
+      },
+      {
+       "RequisitionLocationId": 302967544032269,
+       "GeographyNodeId": 100879842726772,
+       "GeographyId": 300001842985553,
+       "Name": "CHENNAI, TAMIL NADU, India",
+       "CountryCode": "IN",
+       "Latitude": 13.08362,
+       "Longitude": 80.28252
+      },
+      {
+       "RequisitionLocationId": 302967544032270,
+       "GeographyNodeId": 100879842726788,
+       "GeographyId": 300001842985361,
+       "Name": "THIRUVANANTHAPURAM, KERALA, India",
+       "CountryCode": "IN",
+       "Latitude": 8.50519,
+       "Longitude": 76.95139
+      },
+      {
+       "RequisitionLocationId": 302967544032271,
+       "GeographyNodeId": 100879842726786,
+       "GeographyId": 300001842985689,
+       "Name": "GANDHI NAGAR, GUJARAT, India",
+       "CountryCode": "IN",
+       "Latitude": 22.30489,
+       "Longitude": 70.77155
+      },
+      {
+       "RequisitionLocationId": 302967544032272,
+       "GeographyNodeId": 100879842726512,
+       "GeographyId": 300001842985312,
+       "Name": "PUNE, MAHARASHTRA, India",
+       "CountryCode": "IN",
+       "Latitude": 18.50422,
+       "Longitude": 73.85302
+      },
+      {
+       "RequisitionLocationId": 302967544032273,
+       "GeographyNodeId": 100879842726794,
+       "GeographyId": 300001842985413,
+       "Name": "MUMBAI, MAHARASHTRA, India",
+       "CountryCode": "IN",
+       "Latitude": 18.94017,
+       "Longitude": 72.83483
+      },
+      {
+       "RequisitionLocationId": 302967544032274,
+       "GeographyNodeId": 100879842726385,
+       "GeographyId": 300001842985746,
+       "Name": "NOIDA, UTTAR PRADESH, India",
+       "CountryCode": "IN",
+       "Latitude": 28.53341,
+       "Longitude": 77.3821
+      },
+      {
+       "RequisitionLocationId": 302967544032275,
+       "GeographyNodeId": 100879842726505,
+       "GeographyId": 300001842985709,
+       "Name": "GURUGRAM, HARYANA, India",
+       "CountryCode": "IN",
+       "Latitude": 28.47762,
+       "Longitude": 77.06952
+      },
+      {
+       "RequisitionLocationId": 302967544032276,
+       "GeographyNodeId": 100879842726487,
+       "GeographyId": 300001842985610,
+       "Name": "KOLKATA, WEST BENGAL, India",
+       "CountryCode": "IN",
+       "Latitude": 22.44392,
+       "Longitude": 88.36615
+      }
+     ]
+    },
+    {
+     "Id": "340530",
+     "Title": "Senior Financial Analyst (FP&A) \u2013 Global Revenue Finance",
+     "PostedDate": "2026-10-25",
+     "PostingEndDate": null,
+     "Language": "US",
+     "PrimaryLocationCountry": "IN",
+     "GeographyId": 300001842985425,
+     "HotJobFlag": false,
+     "WorkplaceTypeCode": null,
+     "JobFamily": null,
+     "JobFunction": null,
+     "WorkerType": null,
+     "ContractType": null,
+     "ManagerLevel": null,
+     "JobSchedule": null,
+     "JobShift": null,
+     "JobType": null,
+     "StudyLevel": null,
+     "DomesticTravelRequired": null,
+     "InternationalTravelRequired": null,
+     "WorkDurationYears": null,
+     "WorkDurationMonths": null,
+     "WorkHours": null,
+     "WorkDays": null,
+     "LegalEmployer": null,
+     "BusinessUnit": null,
+     "Department": null,
+     "Organization": null,
+     "BusinessUnitId": 300001096514498,
+     "LegalEmployerId": 300000000814110,
+     "OrganizationId": 300001902541887,
+     "MediaThumbURL": "https://img.youtube.com/vi/BV0GMCITXg4/hqdefault.jpg",
+     "ShortDescriptionStr": "Oracle's Global Revenue Finance organization serves as a strategic finance partner supporting Oracle's global cloud business. The team provides financial planning, forecasting, revenue analytics, accounting support, and business insights that enable executive decision-making while ensuring compliance with financial policies, internal controls, and revenue recognition standards.",
+     "PrimaryLocation": "BENGALURU, KARNATAKA, India",
+     "Distance": 1792886400000.0,
+     "TrendingFlag": true,
+     "BeFirstToApplyFlag": false,
+     "Relevancy": 9,
+     "WorkplaceType": "",
+     "ExternalQualificationsStr": null,
+     "ExternalResponsibilitiesStr": null,
+     "secondaryLocations": []
+    }
+   ]
+  }
+ ],
+ "count": 1,
+ "hasMore": false,
+ "limit": 200,
+ "offset": 0,
+ "links": [
+  {
+   "rel": "self",
+   "href": "https://eeho.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitions",
+   "name": "recruitingCEJobRequisitions",
+   "kind": "collection"
+  },
+  {
+   "rel": "action",
+   "href": "https://eeho.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitions/action/getRequisitionsLocationCoordinates",
+   "name": "getRequisitionsLocationCoordinates",
+   "kind": "other"
+  },
+  {
+   "rel": "action",
+   "href": "https://eeho.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitions/action/getRequisitionDetailsForMap",
+   "name": "getRequisitionDetailsForMap",
+   "kind": "other"
+  }
+ ]
+}

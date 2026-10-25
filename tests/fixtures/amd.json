@@ -1,0 +1,1608 @@
+{
+ "jobs": [
+  {
+   "data": {
+    "slug": "93800",
+    "language": "en-us",
+    "languages": [
+     "en-us"
+    ],
+    "client_code": "amd",
+    "req_id": "93800",
+    "title": "Sr. Corporate Counsel (Gov't Contracts & Product Compliance)",
+    "description": "<strong class=\"jdheading\"></strong><br><br><p style=\"margin: 0px;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>ADVANCE YOUR CAREER. ADVANCE THE WORLD.\u00a0</strong></span></p><p style=\"margin: 0px;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">At AMD, we believe\u00a0technology has the power to solve the world\u2019s most important challenges. From advancing healthcare and scientific discovery to powering AI and the technologies people rely on every day, innovation at AMD\u00a0is shaping\u00a0the\u00a0future.\u00a0</span></p><p style=\"margin: 0px;\">\u00a0</p><p styl",
+    "location_name": "US,TX,Austin",
+    "street_address": "7171 Southwest Parkway",
+    "city": "Austin",
+    "state": "Texas",
+    "country": "United States",
+    "country_code": "US",
+    "postal_code": "78735",
+    "location_type": "LAT_LNG",
+    "latitude": 30.249,
+    "longitude": -97.8414,
+    "categories": [
+     {
+      "name": "General Management/ Administration/ Support"
+     }
+    ],
+    "tags1": [
+     "No"
+    ],
+    "tags2": [
+     "USD $145,390.00/Yr."
+    ],
+    "tags3": [
+     "USD $207,700.00/Yr."
+    ],
+    "tags4": [
+     "US Careers (External)"
+    ],
+    "tags5": [
+     "USD $166,160.00/Yr."
+    ],
+    "tags6": [
+     "USD $249,240.00/Yr."
+    ],
+    "tags7": [
+     "166160"
+    ],
+    "tags8": [
+     "249240"
+    ],
+    "department": "",
+    "salary_value": 0,
+    "salary_min_value": 0,
+    "salary_max_value": 0,
+    "employment_type": "FULL_TIME",
+    "qualifications": "<p style=\"margin: 0px;\"><span style=\"font-size: 12pt;\"><em><span style=\"font-family: 'Arial',sans-serif; color: black;\">Benefits offered are described:&nbsp; </span></em><span style=\"font-family: 'Arial',sans-serif; color: black;\"><a href=\"https://www.amd.com/en/corporate/careers/benefits.html\" target=\"_blank\" rel=\"noopener\">AMD benefits at a glance</a>.</span></span></p><p style=\"margin: 0px;\"><span style=\"color: black; font-size: 12pt;\">&nbsp;</span></p><p style=\"margin: 0px;\"><span style=\"font-size: 12pt;\"><em><span style=\"font-family: 'Arial',sans-serif; color: black;\">AMD does not accept ",
+    "hiring_organization": "Advanced Micro Devices, Inc",
+    "hiring_organization_logo": "https://www.amd.com/content/dam/code/images/header/amd-header-logo.svg",
+    "responsibilities": "<p style=\"margin: 0px;\"><strong><span style=\"font-size: 12.0pt; font-family: 'Arial',sans-serif; color: #333333;\">THE ROLE:</span></strong></p><p style=\"margin: 0px;\">&nbsp;</p><div><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">The AMD Law Department is seeking a seasoned technology product and transactions attorney to join its Patent &amp; Technology Law team, supporting technology and government transactions while advising on product development and compliance matters.</span></div><div>&nbsp;</div><p style=\"margin: 0px;\"><span style=\"font-size: 12pt; font-family: ",
+    "posted_date": "2026-10-24T04:03:00+0000",
+    "apply_url": "https://careers-amd.icims.com/jobs/93800/login",
+    "internal": false,
+    "external": false,
+    "searchable": true,
+    "applyable": true,
+    "li_easy_applyable": true,
+    "ats_code": "icims",
+    "hiring_flow_name": "iCIMS ATS Hiring Flow",
+    "isFrontLineAIJob": false,
+    "isApplyFlowJob": false,
+    "meta_data": {
+     "mongo": {
+      "mongo_created": true
+     },
+     "openingjobs": {
+      "openingJobId": "000016b8fe52b2a05e5ec1909dbd63d25173"
+     },
+     "icims": {
+      "jps_is_public": true,
+      "primary_posted_site_object": {
+       "site": "careers-amd",
+       "tenantId": "12834",
+       "siteId": "c0855819-5879-4b81-8974-83b570f1d047",
+       "datePosted": "2026-10-24T04:03:00+0000",
+       "siteType": "ATTRACT"
+      },
+      "date_updated": "2026-10-24T04:46:31Z",
+      "config_keys": {
+       "jobposting.external.company.name": "Advanced Micro Devices, Inc",
+       "jobposting.external.indeed.screenerquestions": "1",
+       "icims.external.xml.feeds": "icims.adzuna.xml.enabled,icims.aeroemploiformation.xml.enabled,icims.apec.xml.enabled,icims.careerbuilder.xml.enabled,icims.careerarc.xml.enabled,icims.careerlink.xml.enabled,icims.clearbold.xml.enabled,icims.constructionjobs.xml.enabled,icims.craigslist.xml.enabled,icims.cv-library.xml.enabled,icims.cvaden.xml.enabled,icims.direct-employers.xml.enabled,icims.hireheroesusa.xml.enabled,icims.hireahero.xml.enabled,icims.hirepurpose.xml.enabled,icims.hospitalcareers.xml.enabled,icims.iberempleos.xml.enabled,icims.indeed.xml.enabled,icims.inhersight.xml.enabled,icims.irishjobs.xml.enabled,icims.it",
+       "icims.config.web.apply.jobpost": "1",
+       "portal.id": "17",
+       "jobposting.external.parent.organization.name": "Advanced Micro Devices, Inc",
+       "ccc.attract.portal.url": "https://careers.amd.com",
+       "icims.config.web.indeed.easy.apply": "0"
+      },
+      "revision_int": 3,
+      "uuid": "c476d417-b653-4272-90e8-575081e5acbf"
+     },
+     "ats_job_hash": "9c9f627d90316c9b7942b15e543e2f13",
+     "googlejobs": {
+      "jobName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/jobs/98441956417249990"
+     },
+     "import_id": "8741378e-49be-4b68-84b7-6b8fbda9aa07",
+     "redirectOnApply": true,
+     "questionservice": {
+      "id": "46872950"
+     },
+     "canonical_url": "https://careers.amd.com/jobs/93800?lang=en-us",
+     "gdpr": false,
+     "last_mod": "2026-10-25T11:53:12+0000",
+     "elasticsearch": {
+      "es_created": false
+     },
+     "opensearch": {
+      "hit_score": "NaN",
+      "hit_explanation": null,
+      "hit_matched_queries": [
+       "internal",
+       "applyable",
+       "term-language",
+       "searchable",
+       "term-client_code"
+      ],
+      "hit_index": "jobs",
+      "hit_shard": null
+     },
+     "import_source": "ImporterService",
+     "client_code": "amd"
+    },
+    "update_date": "2026-10-25T11:53:12+0000",
+    "create_date": "2026-10-24T04:03:31+0000",
+    "category": [
+     " General Management/ Administration/ Support"
+    ],
+    "full_location": "Austin, Texas",
+    "short_location": "Austin, Texas",
+    "multipleLocations": false
+   }
+  },
+  {
+   "data": {
+    "slug": "94474",
+    "language": "en-us",
+    "languages": [
+     "en-us"
+    ],
+    "client_code": "amd",
+    "req_id": "94474",
+    "title": "Lead SoC Architect",
+    "description": "<strong class=\"jdheading\"></strong><br><br><p style=\"margin: 0px;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>ADVANCE YOUR CAREER. ADVANCE THE WORLD.\u00a0</strong></span></p><p style=\"margin: 0px;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">At AMD, we believe\u00a0technology has the power to solve the world\u2019s most important challenges. From advancing healthcare and scientific discovery to powering AI and the technologies people rely on every day, innovation at AMD\u00a0is shaping\u00a0the\u00a0future.\u00a0</span></p><p style=\"margin: 0px;\">\u00a0</p><p styl",
+    "location_name": "US,CA,San Jose",
+    "street_address": "2100 Logic Drive",
+    "city": "San Jose",
+    "state": "California",
+    "country": "United States",
+    "country_code": "US",
+    "postal_code": "95124",
+    "location_type": "LAT_LNG",
+    "latitude": 37.2563,
+    "longitude": -121.9229,
+    "categories": [
+     {
+      "name": "Engineering"
+     }
+    ],
+    "tags1": [
+     "No"
+    ],
+    "tags2": [
+     "USD $234,780.00/Yr."
+    ],
+    "tags3": [
+     "USD $335,400.00/Yr."
+    ],
+    "tags4": [
+     "US Careers (External)"
+    ],
+    "tags5": [
+     "USD $268,320.00/Yr."
+    ],
+    "tags6": [
+     "USD $402,480.00/Yr."
+    ],
+    "tags7": [
+     "268320"
+    ],
+    "tags8": [
+     "402480"
+    ],
+    "department": "",
+    "salary_value": 0,
+    "salary_min_value": 0,
+    "salary_max_value": 0,
+    "employment_type": "FULL_TIME",
+    "qualifications": "<p style=\"margin: 0px;\"><span style=\"font-size: 12pt;\"><em><span style=\"font-family: 'Arial',sans-serif; color: black;\">Benefits offered are described:&nbsp; </span></em><span style=\"font-family: 'Arial',sans-serif; color: black;\"><a href=\"https://www.amd.com/en/corporate/careers/benefits.html\" target=\"_blank\" rel=\"noopener\">AMD benefits at a glance</a>.</span></span></p><p style=\"margin: 0px;\"><span style=\"color: black; font-size: 12pt;\">&nbsp;</span></p><p style=\"margin: 0px;\"><span style=\"font-size: 12pt;\"><em><span style=\"font-family: 'Arial',sans-serif; color: black;\">AMD does not accept ",
+    "hiring_organization": "Advanced Micro Devices, Inc",
+    "hiring_organization_logo": "https://www.amd.com/content/dam/code/images/header/amd-header-logo.svg",
+    "responsibilities": "<p style=\"margin: 0px;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: black;\">THE ROLE:</span></strong></span></p><p style=\"margin: 0px;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"color: black;\">We are seeking an exceptional SoC Architect to lead the architecture definition and technical direction of our next\u2011generation SoCs </span><span style=\"color: #262626;\">deployed across a wide range of applications including AI, Data Center, Security, Communications, and Embedded Computing</span><span st",
+    "posted_date": "2026-10-23T21:52:00+0000",
+    "apply_url": "https://careers-amd.icims.com/jobs/94474/login",
+    "internal": false,
+    "external": false,
+    "searchable": true,
+    "applyable": true,
+    "li_easy_applyable": true,
+    "ats_code": "icims",
+    "hiring_flow_name": "iCIMS ATS Hiring Flow",
+    "isFrontLineAIJob": false,
+    "isApplyFlowJob": false,
+    "meta_data": {
+     "mongo": {
+      "mongo_created": true
+     },
+     "openingjobs": {
+      "openingJobId": "00005811e81da0aa4ea3b24c81a9a849ff7f"
+     },
+     "icims": {
+      "jps_is_public": true,
+      "primary_posted_site_object": {
+       "site": "careers-amd",
+       "tenantId": "12834",
+       "siteId": "c0855819-5879-4b81-8974-83b570f1d047",
+       "datePosted": "2026-10-23T21:52:00+0000",
+       "siteType": "ATTRACT"
+      },
+      "date_updated": "2026-10-23T22:41:45Z",
+      "config_keys": {
+       "jobposting.external.company.name": "Advanced Micro Devices, Inc",
+       "jobposting.external.indeed.screenerquestions": "1",
+       "icims.external.xml.feeds": "icims.adzuna.xml.enabled,icims.aeroemploiformation.xml.enabled,icims.apec.xml.enabled,icims.careerbuilder.xml.enabled,icims.careerarc.xml.enabled,icims.careerlink.xml.enabled,icims.clearbold.xml.enabled,icims.constructionjobs.xml.enabled,icims.craigslist.xml.enabled,icims.cv-library.xml.enabled,icims.cvaden.xml.enabled,icims.direct-employers.xml.enabled,icims.hireheroesusa.xml.enabled,icims.hireahero.xml.enabled,icims.hirepurpose.xml.enabled,icims.hospitalcareers.xml.enabled,icims.iberempleos.xml.enabled,icims.indeed.xml.enabled,icims.inhersight.xml.enabled,icims.irishjobs.xml.enabled,icims.it",
+       "icims.config.web.apply.jobpost": "1",
+       "portal.id": "17",
+       "jobposting.external.parent.organization.name": "Advanced Micro Devices, Inc",
+       "ccc.attract.portal.url": "https://careers.amd.com",
+       "icims.config.web.indeed.easy.apply": "0"
+      },
+      "revision_int": 3,
+      "uuid": "f16ed8e4-ada6-49f4-b925-9a3a6179204a"
+     },
+     "ats_job_hash": "afa157bb7cecbfcd99f22e43b50ffc0a",
+     "googlejobs": {
+      "jobName": "projects/helpful-passage-853/tenants/cb22eb5b-7e00-0000-0000-007edad744d3/jobs/99698011013030598"
+     },
+     "import_id": "8741378e-49be-4b68-84b7-6b8fbda9aa07",
+     "redirectOnApply": true,
+     "questionservice": {
+      "id": "46871280"
+     },
+     "canonical_url": "https://careers.amd.com/jobs/94474?lang=en-us",
+     "gdpr": false,
+     "last_mod": "2026-10-25T11:53:18+0000",
+     "elasticsearch": {
+      "es_created": false
+     },
+     "opensearch": {
+      "hit_score": "NaN",
+      "hit_explanation": null,
+      "hit_matched_queries": [
+       "internal",
+       "applyable",
+       "term-language",
+       "searchable",
+       "term-client_code"
+      ],
+      "hit_index": "jobs",
+      "hit_shard": null
+     },
+     "import_source": "ImporterService",
+     "client_code": "amd"
+    },
+    "update_date": "2026-10-25T11:53:18+0000",
+    "create_date": "2026-10-23T21:52:32+0000",
+    "category": [
+     " Engineering"
+    ],
+    "full_location": "San Jose, California",
+    "short_location": "San Jose, California",
+    "multipleLocations": false
+   }
+  }
+ ],
+ "locations": [],
+ "totalCount": 2,
+ "request_id": false,
+ "meta_data": false,
+ "count": 1263,
+ "languageCounts": {
+  "en-us": {
+   "displayName": "English",
+   "count": 1263
+  }
+ },
+ "filter": {
+  "facetList": {
+   "city": [
+    {
+     "term": "Austin",
+     "count": 270
+    },
+    {
+     "term": "Bangalore",
+     "count": 112
+    },
+    {
+     "term": "Beijing",
+     "count": 4
+    },
+    {
+     "term": "Belfast",
+     "count": 6
+    },
+    {
+     "term": "Belgrade",
+     "count": 5
+    },
+    {
+     "term": "Bellevue",
+     "count": 4
+    },
+    {
+     "term": "Boxborough",
+     "count": 24
+    },
+    {
+     "term": "CALGARY",
+     "count": 3
+    },
+    {
+     "term": "CALIFORNIA",
+     "count": 1
+    },
+    {
+     "term": "Cambridge",
+     "count": 16
+    },
+    {
+     "term": "Chengdu",
+     "count": 1
+    },
+    {
+     "term": "Cork",
+     "count": 3
+    },
+    {
+     "term": "Cyberjaya",
+     "count": 4
+    },
+    {
+     "term": "Dublin",
+     "count": 9
+    },
+    {
+     "term": "Fishkill",
+     "count": 24
+    },
+    {
+     "term": "Folsom",
+     "count": 2
+    },
+    {
+     "term": "Fort Collins",
+     "count": 33
+    },
+    {
+     "term": "Gdansk",
+     "count": 5
+    },
+    {
+     "term": "GEORGIA",
+     "count": 1
+    },
+    {
+     "term": "Gurgaon",
+     "count": 1
+    },
+    {
+     "term": "Helsinki",
+     "count": 2
+    },
+    {
+     "term": "Hsinchu",
+     "count": 31
+    },
+    {
+     "term": "Hyderabad",
+     "count": 96
+    },
+    {
+     "term": "Iasi",
+     "count": 7
+    },
+    {
+     "term": "London",
+     "count": 1
+    },
+    {
+     "term": "Longmont",
+     "count": 20
+    },
+    {
+     "term": "Manchester",
+     "count": 1
+    },
+    {
+     "term": "MARKHAM",
+     "count": 94
+    },
+    {
+     "term": "Markham",
+     "count": 1
+    },
+    {
+     "term": "Miao-Li",
+     "count": 1
+    },
+    {
+     "term": "Milan",
+     "count": 1
+    },
+    {
+     "term": "Mumbai",
+     "count": 1
+    },
+    {
+     "term": "Munich",
+     "count": 4
+    },
+    {
+     "term": "Nis",
+     "count": 6
+    },
+    {
+     "term": "ONTARIO-HOME OFFICE",
+     "count": 1
+    },
+    {
+     "term": "OTTAWA",
+     "count": 4
+    },
+    {
+     "term": "Penang",
+     "count": 50
+    },
+    {
+     "term": "Penicuik",
+     "count": 4
+    },
+    {
+     "term": "Riyadh",
+     "count": 2
+    },
+    {
+     "term": "Rochester",
+     "count": 15
+    },
+    {
+     "term": "San Diego",
+     "count": 2
+    },
+    {
+     "term": "San Jose",
+     "count": 168
+    },
+    {
+     "term": "Santa Clara",
+     "count": 144
+    },
+    {
+     "term": "Seattle",
+     "count": 11
+    },
+    {
+     "term": "Secaucus",
+     "count": 42
+    },
+    {
+     "term": "Seoul",
+     "count": 3
+    },
+    {
+     "term": "Shanghai",
+     "count": 19
+    },
+    {
+     "term": "Shenzhen",
+     "count": 7
+    },
+    {
+     "term": "Singapore",
+     "count": 42
+    },
+    {
+     "term": "SINGAPORE",
+     "count": 1
+    },
+    {
+     "term": "Suzhou",
+     "count": 2
+    },
+    {
+     "term": "Taipei",
+     "count": 22
+    },
+    {
+     "term": "Tokyo",
+     "count": 4
+    },
+    {
+     "term": "VANCOUVER",
+     "count": 18
+    },
+    {
+     "term": "Washington",
+     "count": 1
+    },
+    {
+     "term": "WIXOM",
+     "count": 1
+    },
+    {
+     "term": "Yerevan",
+     "count": 2
+    }
+   ],
+   "country": [
+    {
+     "term": "Armenia",
+     "count": 2
+    },
+    {
+     "term": "Belgium",
+     "count": 1
+    },
+    {
+     "term": "Canada",
+     "count": 121
+    },
+    {
+     "term": "China",
+     "count": 33
+    },
+    {
+     "term": "Finland",
+     "count": 2
+    },
+    {
+     "term": "France",
+     "count": 1
+    },
+    {
+     "term": "Germany",
+     "count": 4
+    },
+    {
+     "term": "India",
+     "count": 210
+    },
+    {
+     "term": "Ireland",
+     "count": 12
+    },
+    {
+     "term": "Italy",
+     "count": 1
+    },
+    {
+     "term": "Japan",
+     "count": 4
+    },
+    {
+     "term": "Korea, South",
+     "count": 3
+    },
+    {
+     "term": "Malaysia",
+     "count": 54
+    },
+    {
+     "term": "Poland",
+     "count": 8
+    },
+    {
+     "term": "Romania",
+     "count": 8
+    },
+    {
+     "term": "Saudi Arabia",
+     "count": 2
+    },
+    {
+     "term": "Serbia",
+     "count": 11
+    },
+    {
+     "term": "Singapore",
+     "count": 52
+    },
+    {
+     "term": "Taiwan",
+     "count": 54
+    },
+    {
+     "term": "United Kingdom",
+     "count": 29
+    },
+    {
+     "term": "United States",
+     "count": 651
+    }
+   ],
+   "tags1": [
+    {
+     "term": "No",
+     "count": 1220
+    },
+    {
+     "term": "Yes",
+     "count": 43
+    }
+   ]
+  },
+  "displayLimit": 10,
+  "brands": {
+   "all": [],
+   "shortlist": []
+  },
+  "categories": {
+   "all": [
+    {
+     "category": "Accounting/Finance",
+     "numJobs": 9
+    },
+    {
+     "category": "Customer Service/Support",
+     "numJobs": 1
+    },
+    {
+     "category": "Engineering",
+     "numJobs": 970
+    },
+    {
+     "category": "General Management/ Administration/ Support",
+     "numJobs": 73
+    },
+    {
+     "category": "Human Resources",
+     "numJobs": 8
+    },
+    {
+     "category": "Information Technology",
+     "numJobs": 6
+    },
+    {
+     "category": "Legal",
+     "numJobs": 2
+    },
+    {
+     "category": "Manufacturing",
+     "numJobs": 7
+    },
+    {
+     "category": "Sales / Marketing",
+     "numJobs": 75
+    },
+    {
+     "category": "Solution Architect / Field Application Engineering",
+     "numJobs": 1
+    },
+    {
+     "category": "Student / Intern / Temp",
+     "numJobs": 108
+    },
+    {
+     "category": "Supply Chain",
+     "numJobs": 3
+    }
+   ],
+   "shortlist": [
+    {
+     "category": "Accounting/Finance",
+     "numJobs": 9
+    },
+    {
+     "category": "Customer Service/Support",
+     "numJobs": 1
+    },
+    {
+     "category": "Engineering",
+     "numJobs": 970
+    },
+    {
+     "category": "General Management/ Administration/ Support",
+     "numJobs": 73
+    },
+    {
+     "category": "Human Resources",
+     "numJobs": 8
+    },
+    {
+     "category": "Information Technology",
+     "numJobs": 6
+    },
+    {
+     "category": "Legal",
+     "numJobs": 2
+    },
+    {
+     "category": "Manufacturing",
+     "numJobs": 7
+    },
+    {
+     "category": "Sales / Marketing",
+     "numJobs": 75
+    },
+    {
+     "category": "Solution Architect / Field Application Engineering",
+     "numJobs": 1
+    },
+    {
+     "category": "Student / Intern / Temp",
+     "numJobs": 108
+    },
+    {
+     "category": "Supply Chain",
+     "numJobs": 3
+    }
+   ]
+  },
+  "locations": {
+   "all": [
+    {
+     "city": "Austin",
+     "state": "Texas",
+     "country": "United States",
+     "count": 270
+    },
+    {
+     "city": "Bangalore",
+     "state": "Karnataka",
+     "country": "India",
+     "count": 112
+    },
+    {
+     "city": "Beijing",
+     "state": "Beijing",
+     "country": "China",
+     "count": 4
+    },
+    {
+     "city": "Bellevue",
+     "state": "Washington",
+     "country": "United States",
+     "count": 4
+    },
+    {
+     "city": "Boxborough",
+     "state": "Massachusetts",
+     "country": "United States",
+     "count": 24
+    },
+    {
+     "city": "CALGARY",
+     "state": "Alberta",
+     "country": "Canada",
+     "count": 3
+    },
+    {
+     "city": "CALIFORNIA",
+     "state": "California",
+     "country": "United States",
+     "count": 1
+    },
+    {
+     "city": "Cork",
+     "state": "Cork",
+     "country": "Ireland",
+     "count": 3
+    },
+    {
+     "city": "Cyberjaya",
+     "state": "Selangor",
+     "country": "Malaysia",
+     "count": 4
+    },
+    {
+     "city": "Dublin",
+     "state": "Dublin",
+     "country": "Ireland",
+     "count": 9
+    },
+    {
+     "city": "Fishkill",
+     "state": "New York",
+     "country": "United States",
+     "count": 24
+    },
+    {
+     "city": "Folsom",
+     "state": "California",
+     "country": "United States",
+     "count": 2
+    },
+    {
+     "city": "Fort Collins",
+     "state": "Colorado",
+     "country": "United States",
+     "count": 33
+    },
+    {
+     "city": "GEORGIA",
+     "state": "Georgia",
+     "country": "United States",
+     "count": 1
+    },
+    {
+     "city": "Gdansk",
+     "state": "Pomorskie",
+     "country": "Poland",
+     "count": 5
+    },
+    {
+     "city": "Gurgaon",
+     "state": "Haryana",
+     "country": "India",
+     "count": 1
+    },
+    {
+     "city": "Hyderabad",
+     "state": "Telangana",
+     "country": "India",
+     "count": 96
+    },
+    {
+     "city": "London",
+     "state": "Greater London",
+     "country": "United Kingdom",
+     "count": 1
+    },
+    {
+     "city": "Longmont",
+     "state": "Colorado",
+     "country": "United States",
+     "count": 20
+    },
+    {
+     "city": "MARKHAM",
+     "state": "Ontario",
+     "country": "Canada",
+     "count": 94
+    },
+    {
+     "city": "Markham",
+     "state": "Ontario",
+     "country": "Canada",
+     "count": 1
+    },
+    {
+     "city": "Miao-Li",
+     "state": "Taiwan",
+     "country": "Taiwan",
+     "count": 1
+    },
+    {
+     "city": "Mumbai",
+     "state": "Maharashtra",
+     "country": "India",
+     "count": 1
+    },
+    {
+     "city": "ONTARIO-HOME OFFICE",
+     "state": "Ontario",
+     "country": "Canada",
+     "count": 1
+    },
+    {
+     "city": "OTTAWA",
+     "state": "Ontario",
+     "country": "Canada",
+     "count": 4
+    },
+    {
+     "city": "Penang",
+     "state": "Pulau Pinang",
+     "country": "Malaysia",
+     "count": 50
+    },
+    {
+     "city": "Rochester",
+     "state": "New York",
+     "country": "United States",
+     "count": 15
+    },
+    {
+     "city": "SINGAPORE",
+     "state": "Singapore",
+     "country": "Singapore",
+     "count": 1
+    },
+    {
+     "city": "San Diego",
+     "state": "California",
+     "country": "United States",
+     "count": 2
+    },
+    {
+     "city": "San Jose",
+     "state": "California",
+     "country": "United States",
+     "count": 168
+    },
+    {
+     "city": "Santa Clara",
+     "state": "California",
+     "country": "United States",
+     "count": 144
+    },
+    {
+     "city": "Seattle",
+     "state": "Washington",
+     "country": "United States",
+     "count": 11
+    },
+    {
+     "city": "Secaucus",
+     "state": "New Jersey",
+     "country": "United States",
+     "count": 42
+    },
+    {
+     "city": "Shanghai",
+     "state": "Shanghai",
+     "country": "China",
+     "count": 19
+    },
+    {
+     "city": "Singapore",
+     "state": "Singapore",
+     "country": "Singapore",
+     "count": 3
+    },
+    {
+     "city": "VANCOUVER",
+     "state": "British Columbia",
+     "country": "Canada",
+     "count": 18
+    },
+    {
+     "city": "WIXOM",
+     "state": "Michigan",
+     "country": "United States",
+     "count": 1
+    },
+    {
+     "city": "Belfast",
+     "state": null,
+     "country": "United Kingdom",
+     "count": 6
+    },
+    {
+     "city": "Belgrade",
+     "state": null,
+     "country": "Serbia",
+     "count": 5
+    },
+    {
+     "city": "Cambridge",
+     "state": null,
+     "country": "United Kingdom",
+     "count": 16
+    },
+    {
+     "city": "Chengdu",
+     "state": null,
+     "country": "China",
+     "count": 1
+    },
+    {
+     "city": "Helsinki",
+     "state": null,
+     "country": "Finland",
+     "count": 2
+    },
+    {
+     "city": "Hsinchu",
+     "state": null,
+     "country": "Taiwan",
+     "count": 31
+    },
+    {
+     "city": "Iasi",
+     "state": null,
+     "country": "Romania",
+     "count": 7
+    },
+    {
+     "city": "Manchester",
+     "state": null,
+     "country": "United Kingdom",
+     "count": 1
+    },
+    {
+     "city": "Milan",
+     "state": null,
+     "country": "Italy",
+     "count": 1
+    },
+    {
+     "city": "Munich",
+     "state": null,
+     "country": "Germany",
+     "count": 4
+    },
+    {
+     "city": "Nis",
+     "state": null,
+     "country": "Serbia",
+     "count": 6
+    },
+    {
+     "city": "Penicuik",
+     "state": null,
+     "country": "United Kingdom",
+     "count": 4
+    },
+    {
+     "city": "Riyadh",
+     "state": null,
+     "country": "Saudi Arabia",
+     "count": 2
+    },
+    {
+     "city": "Seoul",
+     "state": null,
+     "country": "Korea, South",
+     "count": 3
+    },
+    {
+     "city": "Shenzhen",
+     "state": null,
+     "country": "China",
+     "count": 7
+    },
+    {
+     "city": "Singapore",
+     "state": null,
+     "country": "Singapore",
+     "count": 39
+    },
+    {
+     "city": "Suzhou",
+     "state": null,
+     "country": "China",
+     "count": 2
+    },
+    {
+     "city": "Taipei",
+     "state": null,
+     "country": "Taiwan",
+     "count": 22
+    },
+    {
+     "city": "Tokyo",
+     "state": null,
+     "country": "Japan",
+     "count": 4
+    },
+    {
+     "city": "Washington",
+     "state": null,
+     "country": "United States",
+     "count": 1
+    },
+    {
+     "city": "Yerevan",
+     "state": null,
+     "country": "Armenia",
+     "count": 2
+    },
+    {
+     "city": null,
+     "state": "Arizona",
+     "country": "United States",
+     "count": 1
+    },
+    {
+     "city": null,
+     "state": "California",
+     "country": "United States",
+     "count": 3
+    },
+    {
+     "city": null,
+     "state": "New Jersey",
+     "country": "United States",
+     "count": 1
+    },
+    {
+     "city": null,
+     "state": "New York",
+     "country": "United States",
+     "count": 1
+    },
+    {
+     "city": null,
+     "state": "Oregon",
+     "country": "United States",
+     "count": 1
+    },
+    {
+     "city": null,
+     "state": "Singapore",
+     "country": "Singapore",
+     "count": 8
+    },
+    {
+     "city": null,
+     "state": "Texas",
+     "country": "United States",
+     "count": 9
+    },
+    {
+     "city": null,
+     "state": "Virginia",
+     "country": "United States",
+     "count": 1
+    },
+    {
+     "city": null,
+     "state": null,
+     "country": "Belgium",
+     "count": 1
+    },
+    {
+     "city": null,
+     "state": null,
+     "country": "France",
+     "count": 1
+    },
+    {
+     "city": null,
+     "state": null,
+     "country": "Poland",
+     "count": 3
+    },
+    {
+     "city": null,
+     "state": null,
+     "country": "Romania",
+     "count": 1
+    },
+    {
+     "city": null,
+     "state": null,
+     "country": "Singapore",
+     "count": 1
+    },
+    {
+     "city": null,
+     "state": null,
+     "country": "United Kingdom",
+     "count": 1
+    }
+   ],
+   "shortlist": [
+    {
+     "city": "Austin",
+     "state": "Texas",
+     "country": "United States",
+     "count": 270
+    },
+    {
+     "city": "Bangalore",
+     "state": "Karnataka",
+     "country": "India",
+     "count": 112
+    },
+    {
+     "city": "Beijing",
+     "state": "Beijing",
+     "country": "China",
+     "count": 4
+    },
+    {
+     "city": "Bellevue",
+     "state": "Washington",
+     "country": "United States",
+     "count": 4
+    },
+    {
+     "city": "Boxborough",
+     "state": "Massachusetts",
+     "country": "United States",
+     "count": 24
+    },
+    {
+     "city": "CALGARY",
+     "state": "Alberta",
+     "country": "Canada",
+     "count": 3
+    },
+    {
+     "city": "CALIFORNIA",
+     "state": "California",
+     "country": "United States",
+     "count": 1
+    },
+    {
+     "city": "Cork",
+     "state": "Cork",
+     "country": "Ireland",
+     "count": 3
+    },
+    {
+     "city": "Cyberjaya",
+     "state": "Selangor",
+     "country": "Malaysia",
+     "count": 4
+    },
+    {
+     "city": "Dublin",
+     "state": "Dublin",
+     "country": "Ireland",
+     "count": 9
+    },
+    {
+     "city": "Fishkill",
+     "state": "New York",
+     "country": "United States",
+     "count": 24
+    },
+    {
+     "city": "Folsom",
+     "state": "California",
+     "country": "United States",
+     "count": 2
+    },
+    {
+     "city": "Fort Collins",
+     "state": "Colorado",
+     "country": "United States",
+     "count": 33
+    },
+    {
+     "city": "GEORGIA",
+     "state": "Georgia",
+     "country": "United States",
+     "count": 1
+    },
+    {
+     "city": "Gdansk",
+     "state": "Pomorskie",
+     "country": "Poland",
+     "count": 5
+    },
+    {
+     "city": "Gurgaon",
+     "state": "Haryana",
+     "country": "India",
+     "count": 1
+    },
+    {
+     "city": "Hyderabad",
+     "state": "Telangana",
+     "country": "India",
+     "count": 96
+    },
+    {
+     "city": "London",
+     "state": "Greater London",
+     "country": "United Kingdom",
+     "count": 1
+    },
+    {
+     "city": "Longmont",
+     "state": "Colorado",
+     "country": "United States",
+     "count": 20
+    },
+    {
+     "city": "MARKHAM",
+     "state": "Ontario",
+     "country": "Canada",
+     "count": 94
+    },
+    {
+     "city": "Markham",
+     "state": "Ontario",
+     "country": "Canada",
+     "count": 1
+    },
+    {
+     "city": "Miao-Li",
+     "state": "Taiwan",
+     "country": "Taiwan",
+     "count": 1
+    },
+    {
+     "city": "Mumbai",
+     "state": "Maharashtra",
+     "country": "India",
+     "count": 1
+    },
+    {
+     "city": "ONTARIO-HOME OFFICE",
+     "state": "Ontario",
+     "country": "Canada",
+     "count": 1
+    },
+    {
+     "city": "OTTAWA",
+     "state": "Ontario",
+     "country": "Canada",
+     "count": 4
+    },
+    {
+     "city": "Penang",
+     "state": "Pulau Pinang",
+     "country": "Malaysia",
+     "count": 50
+    },
+    {
+     "city": "Rochester",
+     "state": "New York",
+     "country": "United States",
+     "count": 15
+    },
+    {
+     "city": "SINGAPORE",
+     "state": "Singapore",
+     "country": "Singapore",
+     "count": 1
+    },
+    {
+     "city": "San Diego",
+     "state": "California",
+     "country": "United States",
+     "count": 2
+    },
+    {
+     "city": "San Jose",
+     "state": "California",
+     "country": "United States",
+     "count": 168
+    },
+    {
+     "city": "Santa Clara",
+     "state": "California",
+     "country": "United States",
+     "count": 144
+    },
+    {
+     "city": "Seattle",
+     "state": "Washington",
+     "country": "United States",
+     "count": 11
+    },
+    {
+     "city": "Secaucus",
+     "state": "New Jersey",
+     "country": "United States",
+     "count": 42
+    },
+    {
+     "city": "Shanghai",
+     "state": "Shanghai",
+     "country": "China",
+     "count": 19
+    },
+    {
+     "city": "Singapore",
+     "state": "Singapore",
+     "country": "Singapore",
+     "count": 3
+    },
+    {
+     "city": "VANCOUVER",
+     "state": "British Columbia",
+     "country": "Canada",
+     "count": 18
+    },
+    {
+     "city": "WIXOM",
+     "state": "Michigan",
+     "country": "United States",
+     "count": 1
+    },
+    {
+     "city": "Belfast",
+     "state": null,
+     "country": "United Kingdom",
+     "count": 6
+    },
+    {
+     "city": "Belgrade",
+     "state": null,
+     "country": "Serbia",
+     "count": 5
+    },
+    {
+     "city": "Cambridge",
+     "state": null,
+     "country": "United Kingdom",
+     "count": 16
+    },
+    {
+     "city": "Chengdu",
+     "state": null,
+     "country": "China",
+     "count": 1
+    },
+    {
+     "city": "Helsinki",
+     "state": null,
+     "country": "Finland",
+     "count": 2
+    },
+    {
+     "city": "Hsinchu",
+     "state": null,
+     "country": "Taiwan",
+     "count": 31
+    },
+    {
+     "city": "Iasi",
+     "state": null,
+     "country": "Romania",
+     "count": 7
+    },
+    {
+     "city": "Manchester",
+     "state": null,
+     "country": "United Kingdom",
+     "count": 1
+    },
+    {
+     "city": "Milan",
+     "state": null,
+     "country": "Italy",
+     "count": 1
+    },
+    {
+     "city": "Munich",
+     "state": null,
+     "country": "Germany",
+     "count": 4
+    },
+    {
+     "city": "Nis",
+     "state": null,
+     "country": "Serbia",
+     "count": 6
+    },
+    {
+     "city": "Penicuik",
+     "state": null,
+     "country": "United Kingdom",
+     "count": 4
+    },
+    {
+     "city": "Riyadh",
+     "state": null,
+     "country": "Saudi Arabia",
+     "count": 2
+    },
+    {
+     "city": "Seoul",
+     "state": null,
+     "country": "Korea, South",
+     "count": 3
+    },
+    {
+     "city": "Shenzhen",
+     "state": null,
+     "country": "China",
+     "count": 7
+    },
+    {
+     "city": "Singapore",
+     "state": null,
+     "country": "Singapore",
+     "count": 39
+    },
+    {
+     "city": "Suzhou",
+     "state": null,
+     "country": "China",
+     "count": 2
+    },
+    {
+     "city": "Taipei",
+     "state": null,
+     "country": "Taiwan",
+     "count": 22
+    },
+    {
+     "city": "Tokyo",
+     "state": null,
+     "country": "Japan",
+     "count": 4
+    },
+    {
+     "city": "Washington",
+     "state": null,
+     "country": "United States",
+     "count": 1
+    },
+    {
+     "city": "Yerevan",
+     "state": null,
+     "country": "Armenia",
+     "count": 2
+    },
+    {
+     "city": null,
+     "state": "Arizona",
+     "country": "United States",
+     "count": 1
+    },
+    {
+     "city": null,
+     "state": "California",
+     "country": "United States",
+     "count": 3
+    },
+    {
+     "city": null,
+     "state": "New Jersey",
+     "country": "United States",
+     "count": 1
+    },
+    {
+     "city": null,
+     "state": "New York",
+     "country": "United States",
+     "count": 1
+    },
+    {
+     "city": null,
+     "state": "Oregon",
+     "country": "United States",
+     "count": 1
+    },
+    {
+     "city": null,
+     "state": "Singapore",
+     "country": "Singapore",
+     "count": 8
+    },
+    {
+     "city": null,
+     "state": "Texas",
+     "country": "United States",
+     "count": 9
+    },
+    {
+     "city": null,
+     "state": "Virginia",
+     "country": "United States",
+     "count": 1
+    },
+    {
+     "city": null,
+     "state": null,
+     "country": "Belgium",
+     "count": 1
+    },
+    {
+     "city": null,
+     "state": null,
+     "country": "France",
+     "count": 1
+    },
+    {
+     "city": null,
+     "state": null,
+     "country": "Poland",
+     "count": 3
+    },
+    {
+     "city": null,
+     "state": null,
+     "country": "Romania",
+     "count": 1
+    },
+    {
+     "city": null,
+     "state": null,
+     "country": "Singapore",
+     "count": 1
+    },
+    {
+     "city": null,
+     "state": null,
+     "country": "United Kingdom",
+     "count": 1
+    }
+   ]
+  },
+  "experienceLevels": {
+   "all": [],
+   "shortlist": []
+  }
+ }
+}
