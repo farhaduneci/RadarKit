@@ -1,7 +1,7 @@
 """Enterprise recruiting suites that host many companies: Workday, Oracle Recruiting Cloud, Jibe, TalentBrew (Radancy)."""
 import html, re, urllib.parse
 
-from ..http import get_json, get_text, post_json
+from ..http import gather, get_json, get_text, post_json
 from .common import iso, json_ld, lazy, text
 
 WORKDAY_CAP = 2000  # a Workday search never pages past this; bigger boards are split by their first facet
@@ -20,19 +20,16 @@ async def wd_detail(api, path):
 
 
 async def wd_search(api, facets, seen):
-    off, total, first = 0, None, None
-    while total is None or off < min(total, WORKDAY_CAP):
-        d = await post_json(api + "/jobs", {"limit": 20, "offset": off, "searchText": "", "appliedFacets": facets})
-        if total is None:
-            total, first = d.get("total") or 0, d.get("facets") or []
-        posts = d.get("jobPostings") or []
-        for p in posts:
+    """Every posting of one search: the first page gives the total, the rest are fetched a few at a time."""
+    page = lambda off: post_json(api + "/jobs", {"limit": 20, "offset": off, "searchText": "", "appliedFacets": facets})
+    first = await page(0)
+    total = first.get("total") or 0
+    pages = [first] + [p for p in await gather([page(o) for o in range(20, min(total, WORKDAY_CAP), 20)], limit=4) if isinstance(p, dict)]
+    for d in pages:
+        for p in d.get("jobPostings") or []:
             if p.get("externalPath"):
                 seen.setdefault(p["externalPath"], p)
-        if not posts:
-            break
-        off += 20
-    return total, first
+    return total, first.get("facets") or []
 
 
 async def f_workday(tok):
