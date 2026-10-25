@@ -4,7 +4,7 @@ import json, os
 
 from .http import post_json
 
-MODEL = "@cf/moonshotai/kimi-k2.5"
+MODEL = "@cf/moonshotai/kimi-k2.6"
 
 
 def text_of(out):
@@ -16,7 +16,10 @@ def text_of(out):
         if isinstance(out.get("response"), str):
             return out["response"]
         if out.get("choices"):
-            return out["choices"][0]["message"]["content"]
+            c = out["choices"][0]
+            if not (c.get("message") or {}).get("content"):
+                raise ValueError(f"empty AI answer (finish_reason {c.get('finish_reason')}): raise max_tokens for a reasoning model")
+            return c["message"]["content"]
         for item in out.get("output") or []:
             for c in item.get("content") or [] if isinstance(item, dict) else []:
                 if c.get("type") in ("output_text", "text") and c.get("text"):
@@ -33,10 +36,11 @@ async def run_binding(binding, model, body):
     return res.to_py() if hasattr(res, "to_py") else res
 
 
-async def complete(system, user, model=MODEL, binding=None, account=None, token=None, max_tokens=2000, temperature=0.4):
-    """One chat completion -> text. binding: the Worker's env.AI; else REST with account id and API token (args or env)."""
+async def complete(system, user, model=MODEL, binding=None, account=None, token=None, max_tokens=2000, temperature=0.4, extra=None):
+    """One chat completion -> text. binding: the Worker's env.AI; else REST with account id and API token (args or env).
+    extra: model-specific input merged into the body, e.g. {"chat_template_kwargs": {"thinking": False}} for Kimi."""
     body = {"messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
-            "max_tokens": max_tokens, "temperature": temperature}
+            "max_tokens": max_tokens, "temperature": temperature, **(extra or {})}
     if binding is not None:
         return text_of(await run_binding(binding, model, body)).strip()
     account = account or os.environ.get("CLOUDFLARE_ACCOUNT_ID")
