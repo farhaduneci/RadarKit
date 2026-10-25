@@ -30,9 +30,8 @@ def text_of(out):
 
 
 async def run_binding(binding, model, body):
-    from pyodide.ffi import to_js  # only inside a Python Worker
-    from js import Object
-    res = await binding.run(model, to_js(body, dict_converter=Object.fromEntries))
+    """The Workers SDK wraps env.AI and converts Python arguments and results itself."""
+    res = await binding.run(model, body)
     return res.to_py() if hasattr(res, "to_py") else res
 
 
@@ -41,10 +40,14 @@ async def complete(system, user, model=MODEL, binding=None, account=None, token=
     extra: model-specific input merged into the body, e.g. {"chat_template_kwargs": {"thinking": False}} for Kimi."""
     body = {"messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
             "max_tokens": max_tokens, "temperature": temperature, **(extra or {})}
-    if binding is not None:
-        return text_of(await run_binding(binding, model, body)).strip()
     account = account or os.environ.get("CLOUDFLARE_ACCOUNT_ID")
     token = token or os.environ.get("CLOUDFLARE_API_TOKEN")
+    if binding is not None:
+        try:
+            return text_of(await run_binding(binding, model, body)).strip()
+        except Exception:
+            if not (account and token):  # no REST credentials to fall back on
+                raise
     if not (account and token):
         raise RuntimeError("ai: no AI binding and no CLOUDFLARE_ACCOUNT_ID / CLOUDFLARE_API_TOKEN for the REST API")
     out = await post_json(f"https://api.cloudflare.com/client/v4/accounts/{account}/ai/run/{model}", body,
