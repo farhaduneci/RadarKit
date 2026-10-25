@@ -2,6 +2,7 @@
 the Workers `fetch` inside a Cloudflare Python Worker. Tests swap it with `set_transport`."""
 import asyncio, json, urllib.error, urllib.request
 
+REQUESTS = 0  # requests sent by this process (attempts, retries included): callers diff it to track a budget
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36"
 TIMEOUT = 20
 
@@ -75,8 +76,10 @@ async def request(method, url, body=None, headers=None, timeout=TIMEOUT, retries
         h.setdefault("Content-Type", "application/json")
     if isinstance(body, str):
         body = body.encode()
+    global REQUESTS
     for attempt in range(retries + 1):
         last = attempt == retries
+        REQUESTS += 1
         try:
             status, text = await transport()(method, url, body, h, timeout)
         except Exception as e:
